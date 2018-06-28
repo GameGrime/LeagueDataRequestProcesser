@@ -1,0 +1,6136 @@
+{
+  "Skin" : {
+    "266000" : {
+      "id" : "266000",
+      "champion" : "Aatrox",
+      "num" : "0",
+      "name" : "default"
+    },
+    "266001" : {
+      "id" : "266001",
+      "champion" : "Aatrox",
+      "num" : "1",
+      "name" : "Justicar Aatrox"
+    },
+    "266002" : {
+      "id" : "266002",
+      "champion" : "Aatrox",
+      "num" : "2",
+      "name" : "Mecha Aatrox"
+    },
+    "266003" : {
+      "id" : "266003",
+      "champion" : "Aatrox",
+      "num" : "3",
+      "name" : "Sea Hunter Aatrox"
+    },
+    "103000" : {
+      "id" : "103000",
+      "champion" : "Ahri",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "103001" : {
+      "id" : "103001",
+      "champion" : "Ahri",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Dynasty Ahri"
+    },
+    "103002" : {
+      "id" : "103002",
+      "champion" : "Ahri",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Midnight Ahri"
+    },
+    "103003" : {
+      "id" : "103003",
+      "champion" : "Ahri",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Foxfire Ahri"
+    },
+    "103004" : {
+      "id" : "103004",
+      "champion" : "Ahri",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Popstar Ahri"
+    },
+    "103005" : {
+      "id" : "103005",
+      "champion" : "Ahri",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Challenger Ahri"
+    },
+    "103006" : {
+      "id" : "103006",
+      "champion" : "Ahri",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Academy Ahri"
+    },
+    "103007" : {
+      "id" : "103007",
+      "champion" : "Ahri",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Arcade Ahri"
+    },
+    "84000" : {
+      "id" : "84000",
+      "champion" : "Akali",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "84001" : {
+      "id" : "84001",
+      "champion" : "Akali",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Stinger Akali"
+    },
+    "84002" : {
+      "id" : "84002",
+      "champion" : "Akali",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Crimson Akali"
+    },
+    "84003" : {
+      "id" : "84003",
+      "champion" : "Akali",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "All-star Akali"
+    },
+    "84004" : {
+      "id" : "84004",
+      "champion" : "Akali",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Nurse Akali"
+    },
+    "84005" : {
+      "id" : "84005",
+      "champion" : "Akali",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Blood Moon Akali"
+    },
+    "84006" : {
+      "id" : "84006",
+      "champion" : "Akali",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Silverfang Akali"
+    },
+    "84007" : {
+      "id" : "84007",
+      "champion" : "Akali",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Headhunter Akali"
+    },
+    "84008" : {
+      "id" : "84008",
+      "champion" : "Akali",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Sashimi Akali"
+    },
+    "12000" : {
+      "id" : "12000",
+      "champion" : "Alistar",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "12001" : {
+      "id" : "12001",
+      "champion" : "Alistar",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Black Alistar"
+    },
+    "12002" : {
+      "id" : "12002",
+      "champion" : "Alistar",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Golden Alistar"
+    },
+    "12003" : {
+      "id" : "12003",
+      "champion" : "Alistar",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Matador Alistar"
+    },
+    "12004" : {
+      "id" : "12004",
+      "champion" : "Alistar",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Longhorn Alistar"
+    },
+    "12005" : {
+      "id" : "12005",
+      "champion" : "Alistar",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Unchained Alistar"
+    },
+    "12006" : {
+      "id" : "12006",
+      "champion" : "Alistar",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Infernal Alistar"
+    },
+    "12007" : {
+      "id" : "12007",
+      "champion" : "Alistar",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Sweeper Alistar"
+    },
+    "12008" : {
+      "id" : "12008",
+      "champion" : "Alistar",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Marauder Alistar"
+    },
+    "12009" : {
+      "id" : "12009",
+      "champion" : "Alistar",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "SKT T1 Alistar"
+    },
+    "32000" : {
+      "id" : "32000",
+      "champion" : "Amumu",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "32001" : {
+      "id" : "32001",
+      "champion" : "Amumu",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Pharaoh Amumu"
+    },
+    "32002" : {
+      "id" : "32002",
+      "champion" : "Amumu",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Vancouver Amumu"
+    },
+    "32003" : {
+      "id" : "32003",
+      "champion" : "Amumu",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Emumu"
+    },
+    "32004" : {
+      "id" : "32004",
+      "champion" : "Amumu",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Re-Gifted Amumu"
+    },
+    "32005" : {
+      "id" : "32005",
+      "champion" : "Amumu",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Almost-Prom King Amumu"
+    },
+    "32006" : {
+      "id" : "32006",
+      "champion" : "Amumu",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Little Knight Amumu"
+    },
+    "32007" : {
+      "id" : "32007",
+      "champion" : "Amumu",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Sad Robot Amumu"
+    },
+    "32008" : {
+      "id" : "32008",
+      "champion" : "Amumu",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Surprise Party Amumu"
+    },
+    "34000" : {
+      "id" : "34000",
+      "champion" : "Anivia",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "34001" : {
+      "id" : "34001",
+      "champion" : "Anivia",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Team Spirit Anivia"
+    },
+    "34002" : {
+      "id" : "34002",
+      "champion" : "Anivia",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Bird of Prey Anivia"
+    },
+    "34003" : {
+      "id" : "34003",
+      "champion" : "Anivia",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Noxus Hunter Anivia"
+    },
+    "34004" : {
+      "id" : "34004",
+      "champion" : "Anivia",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Hextech Anivia"
+    },
+    "34005" : {
+      "id" : "34005",
+      "champion" : "Anivia",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Blackfrost Anivia"
+    },
+    "34006" : {
+      "id" : "34006",
+      "champion" : "Anivia",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Prehistoric Anivia"
+    },
+    "1000" : {
+      "id" : "1000",
+      "champion" : "Annie",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "1001" : {
+      "id" : "1001",
+      "champion" : "Annie",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Goth Annie"
+    },
+    "1002" : {
+      "id" : "1002",
+      "champion" : "Annie",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Red Riding Annie"
+    },
+    "1003" : {
+      "id" : "1003",
+      "champion" : "Annie",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Annie in Wonderland"
+    },
+    "1004" : {
+      "id" : "1004",
+      "champion" : "Annie",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Prom Queen Annie"
+    },
+    "1005" : {
+      "id" : "1005",
+      "champion" : "Annie",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Frostfire Annie"
+    },
+    "1006" : {
+      "id" : "1006",
+      "champion" : "Annie",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Reverse Annie"
+    },
+    "1007" : {
+      "id" : "1007",
+      "champion" : "Annie",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "FrankenTibbers Annie"
+    },
+    "1008" : {
+      "id" : "1008",
+      "champion" : "Annie",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Panda Annie"
+    },
+    "1009" : {
+      "id" : "1009",
+      "champion" : "Annie",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Sweetheart Annie"
+    },
+    "1010" : {
+      "id" : "1010",
+      "champion" : "Annie",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Hextech Annie"
+    },
+    "22000" : {
+      "id" : "22000",
+      "champion" : "Ashe",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "22001" : {
+      "id" : "22001",
+      "champion" : "Ashe",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Freljord Ashe"
+    },
+    "22002" : {
+      "id" : "22002",
+      "champion" : "Ashe",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Sherwood Forest Ashe"
+    },
+    "22003" : {
+      "id" : "22003",
+      "champion" : "Ashe",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Woad Ashe"
+    },
+    "22004" : {
+      "id" : "22004",
+      "champion" : "Ashe",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Queen Ashe"
+    },
+    "22005" : {
+      "id" : "22005",
+      "champion" : "Ashe",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Amethyst Ashe"
+    },
+    "22006" : {
+      "id" : "22006",
+      "champion" : "Ashe",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Heartseeker Ashe"
+    },
+    "22007" : {
+      "id" : "22007",
+      "champion" : "Ashe",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Marauder Ashe"
+    },
+    "22008" : {
+      "id" : "22008",
+      "champion" : "Ashe",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "PROJECT: Ashe"
+    },
+    "136000" : {
+      "id" : "136000",
+      "champion" : "AurelionSol",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "136001" : {
+      "id" : "136001",
+      "champion" : "AurelionSol",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Ashen Lord Aurelion Sol"
+    },
+    "268000" : {
+      "id" : "268000",
+      "champion" : "Azir",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "268001" : {
+      "id" : "268001",
+      "champion" : "Azir",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Galactic Azir"
+    },
+    "268002" : {
+      "id" : "268002",
+      "champion" : "Azir",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Gravelord Azir"
+    },
+    "268003" : {
+      "id" : "268003",
+      "champion" : "Azir",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "SKT T1 Azir"
+    },
+    "432000" : {
+      "id" : "432000",
+      "champion" : "Bard",
+      "num" : "0",
+      "chromas" : "True",
+      "name" : "default"
+    },
+    "432001" : {
+      "id" : "432001",
+      "champion" : "Bard",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Elderwood Bard"
+    },
+    "432005" : {
+      "id" : "432005",
+      "champion" : "Bard",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Snow Day Bard"
+    },
+    "432006" : {
+      "id" : "432006",
+      "champion" : "Bard",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Bard Bard"
+    },
+    "53000" : {
+      "id" : "53000",
+      "champion" : "Blitzcrank",
+      "num" : "0",
+      "chromas" : "True",
+      "name" : "default"
+    },
+    "53001" : {
+      "id" : "53001",
+      "champion" : "Blitzcrank",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Rusty Blitzcrank"
+    },
+    "53002" : {
+      "id" : "53002",
+      "champion" : "Blitzcrank",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Goalkeeper Blitzcrank"
+    },
+    "53003" : {
+      "id" : "53003",
+      "champion" : "Blitzcrank",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Boom Boom Blitzcrank"
+    },
+    "53004" : {
+      "id" : "53004",
+      "champion" : "Blitzcrank",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Piltover Customs Blitzcrank"
+    },
+    "53005" : {
+      "id" : "53005",
+      "champion" : "Blitzcrank",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Definitely Not Blitzcrank"
+    },
+    "53006" : {
+      "id" : "53006",
+      "champion" : "Blitzcrank",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "iBlitzcrank"
+    },
+    "53007" : {
+      "id" : "53007",
+      "champion" : "Blitzcrank",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Riot Blitzcrank"
+    },
+    "53011" : {
+      "id" : "53011",
+      "champion" : "Blitzcrank",
+      "num" : "11",
+      "chromas" : "False",
+      "name" : "Battle Boss Blitzcrank"
+    },
+    "63000" : {
+      "id" : "63000",
+      "champion" : "Brand",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "63001" : {
+      "id" : "63001",
+      "champion" : "Brand",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Apocalyptic Brand"
+    },
+    "63002" : {
+      "id" : "63002",
+      "champion" : "Brand",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Vandal Brand"
+    },
+    "63003" : {
+      "id" : "63003",
+      "champion" : "Brand",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Cryocore Brand"
+    },
+    "63004" : {
+      "id" : "63004",
+      "champion" : "Brand",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Zombie Brand"
+    },
+    "63005" : {
+      "id" : "63005",
+      "champion" : "Brand",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Spirit Fire Brand"
+    },
+    "201000" : {
+      "id" : "201000",
+      "champion" : "Braum",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "201001" : {
+      "id" : "201001",
+      "champion" : "Braum",
+      "num" : "1",
+      "chromas" : "True",
+      "name" : "Dragonslayer Braum"
+    },
+    "201002" : {
+      "id" : "201002",
+      "champion" : "Braum",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "El Tigre Braum"
+    },
+    "201003" : {
+      "id" : "201003",
+      "champion" : "Braum",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Braum Lionheart"
+    },
+    "201010" : {
+      "id" : "201010",
+      "champion" : "Braum",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Santa Braum"
+    },
+    "51000" : {
+      "id" : "51000",
+      "champion" : "Caitlyn",
+      "num" : "0",
+      "chromas" : "True",
+      "name" : "default"
+    },
+    "51001" : {
+      "id" : "51001",
+      "champion" : "Caitlyn",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Resistance Caitlyn"
+    },
+    "51002" : {
+      "id" : "51002",
+      "champion" : "Caitlyn",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Sheriff Caitlyn"
+    },
+    "51003" : {
+      "id" : "51003",
+      "champion" : "Caitlyn",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Safari Caitlyn"
+    },
+    "51004" : {
+      "id" : "51004",
+      "champion" : "Caitlyn",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Arctic Warfare Caitlyn"
+    },
+    "51005" : {
+      "id" : "51005",
+      "champion" : "Caitlyn",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Officer Caitlyn"
+    },
+    "51006" : {
+      "id" : "51006",
+      "champion" : "Caitlyn",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Headhunter Caitlyn"
+    },
+    "51010" : {
+      "id" : "51010",
+      "champion" : "Caitlyn",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Lunar Wraith Caitlyn"
+    },
+    "164000" : {
+      "id" : "164000",
+      "champion" : "Camille",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "164001" : {
+      "id" : "164001",
+      "champion" : "Camille",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Program Camille"
+    },
+    "69000" : {
+      "id" : "69000",
+      "champion" : "Cassiopeia",
+      "num" : "0",
+      "chromas" : "True",
+      "name" : "default"
+    },
+    "69001" : {
+      "id" : "69001",
+      "champion" : "Cassiopeia",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Desperada Cassiopeia"
+    },
+    "69002" : {
+      "id" : "69002",
+      "champion" : "Cassiopeia",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Siren Cassiopeia"
+    },
+    "69003" : {
+      "id" : "69003",
+      "champion" : "Cassiopeia",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Mythic Cassiopeia"
+    },
+    "69004" : {
+      "id" : "69004",
+      "champion" : "Cassiopeia",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Jade Fang Cassiopeia"
+    },
+    "31000" : {
+      "id" : "31000",
+      "champion" : "Chogath",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "31001" : {
+      "id" : "31001",
+      "champion" : "Chogath",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Nightmare Cho'Gath"
+    },
+    "31002" : {
+      "id" : "31002",
+      "champion" : "Chogath",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Gentleman Cho'Gath"
+    },
+    "31003" : {
+      "id" : "31003",
+      "champion" : "Chogath",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Loch Ness Cho'Gath"
+    },
+    "31004" : {
+      "id" : "31004",
+      "champion" : "Chogath",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Jurassic Cho'Gath"
+    },
+    "31005" : {
+      "id" : "31005",
+      "champion" : "Chogath",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Battlecast Prime Cho'Gath"
+    },
+    "31006" : {
+      "id" : "31006",
+      "champion" : "Chogath",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Prehistoric Cho'Gath"
+    },
+    "42000" : {
+      "id" : "42000",
+      "champion" : "Corki",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "42001" : {
+      "id" : "42001",
+      "champion" : "Corki",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "UFO Corki"
+    },
+    "42002" : {
+      "id" : "42002",
+      "champion" : "Corki",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Ice Toboggan Corki"
+    },
+    "42003" : {
+      "id" : "42003",
+      "champion" : "Corki",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Red Baron Corki"
+    },
+    "42004" : {
+      "id" : "42004",
+      "champion" : "Corki",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Hot Rod Corki"
+    },
+    "42005" : {
+      "id" : "42005",
+      "champion" : "Corki",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Urfrider Corki"
+    },
+    "42006" : {
+      "id" : "42006",
+      "champion" : "Corki",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Dragonwing Corki"
+    },
+    "42007" : {
+      "id" : "42007",
+      "champion" : "Corki",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Fnatic Corki"
+    },
+    "42008" : {
+      "id" : "42008",
+      "champion" : "Corki",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Arcade Corki"
+    },
+    "122000" : {
+      "id" : "122000",
+      "champion" : "Darius",
+      "num" : "0",
+      "name" : "default"
+    },
+    "122001" : {
+      "id" : "122001",
+      "champion" : "Darius",
+      "num" : "1",
+      "name" : "Lord Darius"
+    },
+    "122002" : {
+      "id" : "122002",
+      "champion" : "Darius",
+      "num" : "2",
+      "name" : "Bioforge Darius"
+    },
+    "122003" : {
+      "id" : "122003",
+      "champion" : "Darius",
+      "num" : "3",
+      "name" : "Woad King Darius"
+    },
+    "122004" : {
+      "id" : "122004",
+      "champion" : "Darius",
+      "num" : "4",
+      "name" : "Dunkmaster Darius"
+    },
+    "122008" : {
+      "id" : "122008",
+      "champion" : "Darius",
+      "num" : "8",
+      "name" : "Academy Darius"
+    },
+    "122014" : {
+      "id" : "122014",
+      "champion" : "Darius",
+      "num" : "14",
+      "name" : "Dreadnova Darius"
+    },
+    "122015" : {
+      "id" : "122015",
+      "champion" : "Darius",
+      "num" : "15",
+      "name" : "God-King Darius"
+    },
+    "131000" : {
+      "id" : "131000",
+      "champion" : "Diana",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "131001" : {
+      "id" : "131001",
+      "champion" : "Diana",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Dark Valkyrie Diana"
+    },
+    "131002" : {
+      "id" : "131002",
+      "champion" : "Diana",
+      "num" : "2",
+      "chromas" : "True",
+      "name" : "Lunar Goddess Diana"
+    },
+    "131003" : {
+      "id" : "131003",
+      "champion" : "Diana",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Infernal Diana"
+    },
+    "119000" : {
+      "id" : "119000",
+      "champion" : "Draven",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "119001" : {
+      "id" : "119001",
+      "champion" : "Draven",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Soul Reaver Draven"
+    },
+    "119002" : {
+      "id" : "119002",
+      "champion" : "Draven",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Gladiator Draven"
+    },
+    "119003" : {
+      "id" : "119003",
+      "champion" : "Draven",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Primetime Draven"
+    },
+    "119004" : {
+      "id" : "119004",
+      "champion" : "Draven",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Pool Party Draven"
+    },
+    "119005" : {
+      "id" : "119005",
+      "champion" : "Draven",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Beast Hunter Draven"
+    },
+    "119006" : {
+      "id" : "119006",
+      "champion" : "Draven",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Draven Draven"
+    },
+    "36000" : {
+      "id" : "36000",
+      "champion" : "DrMundo",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "36001" : {
+      "id" : "36001",
+      "champion" : "DrMundo",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Toxic Dr. Mundo"
+    },
+    "36002" : {
+      "id" : "36002",
+      "champion" : "DrMundo",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Mr. Mundoverse"
+    },
+    "36003" : {
+      "id" : "36003",
+      "champion" : "DrMundo",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Corporate Mundo"
+    },
+    "36004" : {
+      "id" : "36004",
+      "champion" : "DrMundo",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Mundo Mundo"
+    },
+    "36005" : {
+      "id" : "36005",
+      "champion" : "DrMundo",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Executioner Mundo"
+    },
+    "36006" : {
+      "id" : "36006",
+      "champion" : "DrMundo",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Rageborn Mundo"
+    },
+    "36007" : {
+      "id" : "36007",
+      "champion" : "DrMundo",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "TPA Mundo"
+    },
+    "36008" : {
+      "id" : "36008",
+      "champion" : "DrMundo",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Pool Party Mundo"
+    },
+    "36009" : {
+      "id" : "36009",
+      "champion" : "DrMundo",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "El Macho Mundo"
+    },
+    "245000" : {
+      "id" : "245000",
+      "champion" : "Ekko",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "245001" : {
+      "id" : "245001",
+      "champion" : "Ekko",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Sandstorm Ekko"
+    },
+    "245002" : {
+      "id" : "245002",
+      "champion" : "Ekko",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Academy Ekko"
+    },
+    "245003" : {
+      "id" : "245003",
+      "champion" : "Ekko",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "PROJECT: Ekko"
+    },
+    "60000" : {
+      "id" : "60000",
+      "champion" : "Elise",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "60001" : {
+      "id" : "60001",
+      "champion" : "Elise",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Death Blossom Elise"
+    },
+    "60002" : {
+      "id" : "60002",
+      "champion" : "Elise",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Victorious Elise"
+    },
+    "60003" : {
+      "id" : "60003",
+      "champion" : "Elise",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Blood Moon Elise"
+    },
+    "60004" : {
+      "id" : "60004",
+      "champion" : "Elise",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "SKT T1 Elise"
+    },
+    "28000" : {
+      "id" : "28000",
+      "champion" : "Evelynn",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "28001" : {
+      "id" : "28001",
+      "champion" : "Evelynn",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Shadow Evelynn"
+    },
+    "28002" : {
+      "id" : "28002",
+      "champion" : "Evelynn",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Masquerade Evelynn"
+    },
+    "28003" : {
+      "id" : "28003",
+      "champion" : "Evelynn",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Tango Evelynn"
+    },
+    "28004" : {
+      "id" : "28004",
+      "champion" : "Evelynn",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Safecracker Evelynn"
+    },
+    "81000" : {
+      "id" : "81000",
+      "champion" : "Ezreal",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "81001" : {
+      "id" : "81001",
+      "champion" : "Ezreal",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Nottingham Ezreal"
+    },
+    "81002" : {
+      "id" : "81002",
+      "champion" : "Ezreal",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Striker Ezreal"
+    },
+    "81003" : {
+      "id" : "81003",
+      "champion" : "Ezreal",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Frosted Ezreal"
+    },
+    "81004" : {
+      "id" : "81004",
+      "champion" : "Ezreal",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Explorer Ezreal"
+    },
+    "81005" : {
+      "id" : "81005",
+      "champion" : "Ezreal",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Pulsefire Ezreal"
+    },
+    "81006" : {
+      "id" : "81006",
+      "champion" : "Ezreal",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "TPA Ezreal"
+    },
+    "81007" : {
+      "id" : "81007",
+      "champion" : "Ezreal",
+      "num" : "7",
+      "chromas" : "True",
+      "name" : "Debonair Ezreal"
+    },
+    "81008" : {
+      "id" : "81008",
+      "champion" : "Ezreal",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Ace of Spades Ezreal"
+    },
+    "81009" : {
+      "id" : "81009",
+      "champion" : "Ezreal",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Arcade Ezreal"
+    },
+    "9000" : {
+      "id" : "9000",
+      "champion" : "FiddleSticks",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "9001" : {
+      "id" : "9001",
+      "champion" : "FiddleSticks",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Spectral Fiddlesticks"
+    },
+    "9002" : {
+      "id" : "9002",
+      "champion" : "FiddleSticks",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Union Jack Fiddlesticks"
+    },
+    "9003" : {
+      "id" : "9003",
+      "champion" : "FiddleSticks",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Bandito Fiddlesticks"
+    },
+    "9004" : {
+      "id" : "9004",
+      "champion" : "FiddleSticks",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Pumpkinhead Fiddlesticks"
+    },
+    "9005" : {
+      "id" : "9005",
+      "champion" : "FiddleSticks",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Fiddle Me Timbers"
+    },
+    "9006" : {
+      "id" : "9006",
+      "champion" : "FiddleSticks",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Surprise Party Fiddlesticks"
+    },
+    "9007" : {
+      "id" : "9007",
+      "champion" : "FiddleSticks",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Dark Candy Fiddlesticks"
+    },
+    "9008" : {
+      "id" : "9008",
+      "champion" : "FiddleSticks",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Risen Fiddlesticks"
+    },
+    "114000" : {
+      "id" : "114000",
+      "champion" : "Fiora",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "114001" : {
+      "id" : "114001",
+      "champion" : "Fiora",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Royal Guard Fiora"
+    },
+    "114002" : {
+      "id" : "114002",
+      "champion" : "Fiora",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Nightraven Fiora"
+    },
+    "114003" : {
+      "id" : "114003",
+      "champion" : "Fiora",
+      "num" : "3",
+      "chromas" : "True",
+      "name" : "Headmistress Fiora"
+    },
+    "114004" : {
+      "id" : "114004",
+      "champion" : "Fiora",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "PROJECT: Fiora"
+    },
+    "114005" : {
+      "id" : "114005",
+      "champion" : "Fiora",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Pool Party Fiora"
+    },
+    "105000" : {
+      "id" : "105000",
+      "champion" : "Fizz",
+      "num" : "0",
+      "chromas" : "True",
+      "name" : "default"
+    },
+    "105001" : {
+      "id" : "105001",
+      "champion" : "Fizz",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Atlantean Fizz"
+    },
+    "105002" : {
+      "id" : "105002",
+      "champion" : "Fizz",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Tundra Fizz"
+    },
+    "105003" : {
+      "id" : "105003",
+      "champion" : "Fizz",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Fisherman Fizz"
+    },
+    "105004" : {
+      "id" : "105004",
+      "champion" : "Fizz",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Void Fizz"
+    },
+    "105008" : {
+      "id" : "105008",
+      "champion" : "Fizz",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Cottontail Fizz"
+    },
+    "105009" : {
+      "id" : "105009",
+      "champion" : "Fizz",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Super Galaxy Fizz"
+    },
+    "3000" : {
+      "id" : "3000",
+      "champion" : "Galio",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "3001" : {
+      "id" : "3001",
+      "champion" : "Galio",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Enchanted Galio"
+    },
+    "3002" : {
+      "id" : "3002",
+      "champion" : "Galio",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Hextech Galio"
+    },
+    "3003" : {
+      "id" : "3003",
+      "champion" : "Galio",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Commando Galio"
+    },
+    "3004" : {
+      "id" : "3004",
+      "champion" : "Galio",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Gatekeeper Galio"
+    },
+    "3005" : {
+      "id" : "3005",
+      "champion" : "Galio",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Debonair Galio"
+    },
+    "41000" : {
+      "id" : "41000",
+      "champion" : "Gangplank",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "41001" : {
+      "id" : "41001",
+      "champion" : "Gangplank",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Spooky Gangplank"
+    },
+    "41002" : {
+      "id" : "41002",
+      "champion" : "Gangplank",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Minuteman Gangplank"
+    },
+    "41003" : {
+      "id" : "41003",
+      "champion" : "Gangplank",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Sailor Gangplank"
+    },
+    "41004" : {
+      "id" : "41004",
+      "champion" : "Gangplank",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Toy Soldier Gangplank"
+    },
+    "41005" : {
+      "id" : "41005",
+      "champion" : "Gangplank",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Special Forces Gangplank"
+    },
+    "41006" : {
+      "id" : "41006",
+      "champion" : "Gangplank",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Sultan Gangplank"
+    },
+    "41007" : {
+      "id" : "41007",
+      "champion" : "Gangplank",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Captain Gangplank"
+    },
+    "86000" : {
+      "id" : "86000",
+      "champion" : "Garen",
+      "num" : "0",
+      "name" : "default"
+    },
+    "86001" : {
+      "id" : "86001",
+      "champion" : "Garen",
+      "num" : "1",
+      "name" : "Sanguine Garen"
+    },
+    "86002" : {
+      "id" : "86002",
+      "champion" : "Garen",
+      "num" : "2",
+      "name" : "Desert Trooper Garen"
+    },
+    "86003" : {
+      "id" : "86003",
+      "champion" : "Garen",
+      "num" : "3",
+      "name" : "Commando Garen"
+    },
+    "86004" : {
+      "id" : "86004",
+      "champion" : "Garen",
+      "num" : "4",
+      "name" : "Dreadknight Garen"
+    },
+    "86005" : {
+      "id" : "86005",
+      "champion" : "Garen",
+      "num" : "5",
+      "name" : "Rugged Garen"
+    },
+    "86006" : {
+      "id" : "86006",
+      "champion" : "Garen",
+      "num" : "6",
+      "name" : "Steel Legion Garen"
+    },
+    "86010" : {
+      "id" : "86010",
+      "champion" : "Garen",
+      "num" : "10",
+      "name" : "Rogue Admiral Garen"
+    },
+    "86011" : {
+      "id" : "86011",
+      "champion" : "Garen",
+      "num" : "11",
+      "name" : "Warring Kingdoms Garen"
+    },
+    "86013" : {
+      "id" : "86013",
+      "champion" : "Garen",
+      "num" : "13",
+      "name" : "God-King Garen"
+    },
+    "150000" : {
+      "id" : "150000",
+      "champion" : "Gnar",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "150001" : {
+      "id" : "150001",
+      "champion" : "Gnar",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Dino Gnar"
+    },
+    "150002" : {
+      "id" : "150002",
+      "champion" : "Gnar",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Gentleman Gnar"
+    },
+    "150003" : {
+      "id" : "150003",
+      "champion" : "Gnar",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Snow Day Gnar"
+    },
+    "150004" : {
+      "id" : "150004",
+      "champion" : "Gnar",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "El León Gnar"
+    },
+    "79000" : {
+      "id" : "79000",
+      "champion" : "Gragas",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "79001" : {
+      "id" : "79001",
+      "champion" : "Gragas",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Scuba Gragas"
+    },
+    "79002" : {
+      "id" : "79002",
+      "champion" : "Gragas",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Hillbilly Gragas"
+    },
+    "79003" : {
+      "id" : "79003",
+      "champion" : "Gragas",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Santa Gragas"
+    },
+    "79004" : {
+      "id" : "79004",
+      "champion" : "Gragas",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Gragas, Esq."
+    },
+    "79005" : {
+      "id" : "79005",
+      "champion" : "Gragas",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Vandal Gragas"
+    },
+    "79006" : {
+      "id" : "79006",
+      "champion" : "Gragas",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Oktoberfest Gragas"
+    },
+    "79007" : {
+      "id" : "79007",
+      "champion" : "Gragas",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Superfan Gragas"
+    },
+    "79008" : {
+      "id" : "79008",
+      "champion" : "Gragas",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Fnatic Gragas"
+    },
+    "79009" : {
+      "id" : "79009",
+      "champion" : "Gragas",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Gragas Caskbreaker"
+    },
+    "104000" : {
+      "id" : "104000",
+      "champion" : "Graves",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "104001" : {
+      "id" : "104001",
+      "champion" : "Graves",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Hired Gun Graves"
+    },
+    "104002" : {
+      "id" : "104002",
+      "champion" : "Graves",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Jailbreak Graves"
+    },
+    "104003" : {
+      "id" : "104003",
+      "champion" : "Graves",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Mafia Graves"
+    },
+    "104004" : {
+      "id" : "104004",
+      "champion" : "Graves",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Riot Graves"
+    },
+    "104005" : {
+      "id" : "104005",
+      "champion" : "Graves",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Pool Party Graves"
+    },
+    "104006" : {
+      "id" : "104006",
+      "champion" : "Graves",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Cutthroat Graves"
+    },
+    "104007" : {
+      "id" : "104007",
+      "champion" : "Graves",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Snow Day Graves"
+    },
+    "120000" : {
+      "id" : "120000",
+      "champion" : "Hecarim",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "120001" : {
+      "id" : "120001",
+      "champion" : "Hecarim",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Blood Knight Hecarim"
+    },
+    "120002" : {
+      "id" : "120002",
+      "champion" : "Hecarim",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Reaper Hecarim"
+    },
+    "120003" : {
+      "id" : "120003",
+      "champion" : "Hecarim",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Headless Hecarim"
+    },
+    "120004" : {
+      "id" : "120004",
+      "champion" : "Hecarim",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Arcade Hecarim"
+    },
+    "120005" : {
+      "id" : "120005",
+      "champion" : "Hecarim",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Elderwood Hecarim"
+    },
+    "120006" : {
+      "id" : "120006",
+      "champion" : "Hecarim",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Worldbreaker Hecarim"
+    },
+    "74000" : {
+      "id" : "74000",
+      "champion" : "Heimerdinger",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "74001" : {
+      "id" : "74001",
+      "champion" : "Heimerdinger",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Alien Invader Heimerdinger"
+    },
+    "74002" : {
+      "id" : "74002",
+      "champion" : "Heimerdinger",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Blast Zone Heimerdinger"
+    },
+    "74003" : {
+      "id" : "74003",
+      "champion" : "Heimerdinger",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Piltover Customs Heimerdinger"
+    },
+    "74004" : {
+      "id" : "74004",
+      "champion" : "Heimerdinger",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Snowmerdinger"
+    },
+    "74005" : {
+      "id" : "74005",
+      "champion" : "Heimerdinger",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Hazmat Heimerdinger"
+    },
+    "420000" : {
+      "id" : "420000",
+      "champion" : "Illaoi",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "420001" : {
+      "id" : "420001",
+      "champion" : "Illaoi",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Void Bringer Illaoi"
+    },
+    "39000" : {
+      "id" : "39000",
+      "champion" : "Irelia",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "39001" : {
+      "id" : "39001",
+      "champion" : "Irelia",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Nightblade Irelia"
+    },
+    "39002" : {
+      "id" : "39002",
+      "champion" : "Irelia",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Aviator Irelia"
+    },
+    "39003" : {
+      "id" : "39003",
+      "champion" : "Irelia",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Infiltrator Irelia"
+    },
+    "39004" : {
+      "id" : "39004",
+      "champion" : "Irelia",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Frostblade Irelia"
+    },
+    "39005" : {
+      "id" : "39005",
+      "champion" : "Irelia",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Order of the Lotus Irelia"
+    },
+    "427000" : {
+      "id" : "427000",
+      "champion" : "Ivern",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "427001" : {
+      "id" : "427001",
+      "champion" : "Ivern",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Candy King Ivern"
+    },
+    "40000" : {
+      "id" : "40000",
+      "champion" : "Janna",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "40001" : {
+      "id" : "40001",
+      "champion" : "Janna",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Tempest Janna"
+    },
+    "40002" : {
+      "id" : "40002",
+      "champion" : "Janna",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Hextech Janna"
+    },
+    "40003" : {
+      "id" : "40003",
+      "champion" : "Janna",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Frost Queen Janna"
+    },
+    "40004" : {
+      "id" : "40004",
+      "champion" : "Janna",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Victorious Janna"
+    },
+    "40005" : {
+      "id" : "40005",
+      "champion" : "Janna",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Forecast Janna"
+    },
+    "40006" : {
+      "id" : "40006",
+      "champion" : "Janna",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Fnatic Janna"
+    },
+    "40007" : {
+      "id" : "40007",
+      "champion" : "Janna",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Star Guardian Janna"
+    },
+    "59000" : {
+      "id" : "59000",
+      "champion" : "JarvanIV",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "59001" : {
+      "id" : "59001",
+      "champion" : "JarvanIV",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Commando Jarvan IV"
+    },
+    "59002" : {
+      "id" : "59002",
+      "champion" : "JarvanIV",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Dragonslayer Jarvan IV"
+    },
+    "59003" : {
+      "id" : "59003",
+      "champion" : "JarvanIV",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Darkforge Jarvan IV"
+    },
+    "59004" : {
+      "id" : "59004",
+      "champion" : "JarvanIV",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Victorious Jarvan IV"
+    },
+    "59005" : {
+      "id" : "59005",
+      "champion" : "JarvanIV",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Warring Kingdoms Jarvan IV"
+    },
+    "59006" : {
+      "id" : "59006",
+      "champion" : "JarvanIV",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Fnatic Jarvan IV"
+    },
+    "24000" : {
+      "id" : "24000",
+      "champion" : "Jax",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "24001" : {
+      "id" : "24001",
+      "champion" : "Jax",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "The Mighty Jax"
+    },
+    "24002" : {
+      "id" : "24002",
+      "champion" : "Jax",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Vandal Jax"
+    },
+    "24003" : {
+      "id" : "24003",
+      "champion" : "Jax",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Angler Jax"
+    },
+    "24004" : {
+      "id" : "24004",
+      "champion" : "Jax",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "PAX Jax"
+    },
+    "24005" : {
+      "id" : "24005",
+      "champion" : "Jax",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Jaximus"
+    },
+    "24006" : {
+      "id" : "24006",
+      "champion" : "Jax",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Temple Jax"
+    },
+    "24007" : {
+      "id" : "24007",
+      "champion" : "Jax",
+      "num" : "7",
+      "chromas" : "True",
+      "name" : "Nemesis Jax"
+    },
+    "24008" : {
+      "id" : "24008",
+      "champion" : "Jax",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "SKT T1 Jax"
+    },
+    "24012" : {
+      "id" : "24012",
+      "champion" : "Jax",
+      "num" : "12",
+      "chromas" : "False",
+      "name" : "Warden Jax"
+    },
+    "126000" : {
+      "id" : "126000",
+      "champion" : "Jayce",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "126001" : {
+      "id" : "126001",
+      "champion" : "Jayce",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Full Metal Jayce"
+    },
+    "126002" : {
+      "id" : "126002",
+      "champion" : "Jayce",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Debonair Jayce"
+    },
+    "126003" : {
+      "id" : "126003",
+      "champion" : "Jayce",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Forsaken Jayce"
+    },
+    "126004" : {
+      "id" : "126004",
+      "champion" : "Jayce",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Jayce Brighthammer"
+    },
+    "202000" : {
+      "id" : "202000",
+      "champion" : "Jhin",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "202001" : {
+      "id" : "202001",
+      "champion" : "Jhin",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "High Noon Jhin"
+    },
+    "222000" : {
+      "id" : "222000",
+      "champion" : "Jinx",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "222001" : {
+      "id" : "222001",
+      "champion" : "Jinx",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Mafia Jinx"
+    },
+    "222002" : {
+      "id" : "222002",
+      "champion" : "Jinx",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Firecracker Jinx"
+    },
+    "222003" : {
+      "id" : "222003",
+      "champion" : "Jinx",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Slayer Jinx"
+    },
+    "222004" : {
+      "id" : "222004",
+      "champion" : "Jinx",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Star Guardian Jinx"
+    },
+    "429000" : {
+      "id" : "429000",
+      "champion" : "Kalista",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "429001" : {
+      "id" : "429001",
+      "champion" : "Kalista",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Blood Moon Kalista"
+    },
+    "429002" : {
+      "id" : "429002",
+      "champion" : "Kalista",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Championship Kalista"
+    },
+    "429003" : {
+      "id" : "429003",
+      "champion" : "Kalista",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "SKT T1 Kalista"
+    },
+    "43000" : {
+      "id" : "43000",
+      "champion" : "Karma",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "43001" : {
+      "id" : "43001",
+      "champion" : "Karma",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Sun Goddess Karma"
+    },
+    "43002" : {
+      "id" : "43002",
+      "champion" : "Karma",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Sakura Karma"
+    },
+    "43003" : {
+      "id" : "43003",
+      "champion" : "Karma",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Traditional Karma"
+    },
+    "43004" : {
+      "id" : "43004",
+      "champion" : "Karma",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Order of the Lotus Karma"
+    },
+    "43005" : {
+      "id" : "43005",
+      "champion" : "Karma",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Warden Karma"
+    },
+    "43006" : {
+      "id" : "43006",
+      "champion" : "Karma",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Winter Wonder Karma"
+    },
+    "30000" : {
+      "id" : "30000",
+      "champion" : "Karthus",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "30001" : {
+      "id" : "30001",
+      "champion" : "Karthus",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Phantom Karthus"
+    },
+    "30002" : {
+      "id" : "30002",
+      "champion" : "Karthus",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Statue of Karthus"
+    },
+    "30003" : {
+      "id" : "30003",
+      "champion" : "Karthus",
+      "num" : "3",
+      "chromas" : "True",
+      "name" : "Grim Reaper Karthus"
+    },
+    "30004" : {
+      "id" : "30004",
+      "champion" : "Karthus",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Pentakill Karthus"
+    },
+    "30005" : {
+      "id" : "30005",
+      "champion" : "Karthus",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Fnatic Karthus"
+    },
+    "30009" : {
+      "id" : "30009",
+      "champion" : "Karthus",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Karthus Lightsbane"
+    },
+    "38000" : {
+      "id" : "38000",
+      "champion" : "Kassadin",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "38001" : {
+      "id" : "38001",
+      "champion" : "Kassadin",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Festival Kassadin"
+    },
+    "38002" : {
+      "id" : "38002",
+      "champion" : "Kassadin",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Deep One Kassadin"
+    },
+    "38003" : {
+      "id" : "38003",
+      "champion" : "Kassadin",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Pre-Void Kassadin"
+    },
+    "38004" : {
+      "id" : "38004",
+      "champion" : "Kassadin",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Harbinger Kassadin"
+    },
+    "38005" : {
+      "id" : "38005",
+      "champion" : "Kassadin",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Cosmic Reaver Kassadin"
+    },
+    "55000" : {
+      "id" : "55000",
+      "champion" : "Katarina",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "55001" : {
+      "id" : "55001",
+      "champion" : "Katarina",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Mercenary Katarina"
+    },
+    "55002" : {
+      "id" : "55002",
+      "champion" : "Katarina",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Red Card Katarina"
+    },
+    "55003" : {
+      "id" : "55003",
+      "champion" : "Katarina",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Bilgewater Katarina"
+    },
+    "55004" : {
+      "id" : "55004",
+      "champion" : "Katarina",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Kitty Cat Katarina"
+    },
+    "55005" : {
+      "id" : "55005",
+      "champion" : "Katarina",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "High Command Katarina"
+    },
+    "55006" : {
+      "id" : "55006",
+      "champion" : "Katarina",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Sandstorm Katarina"
+    },
+    "55007" : {
+      "id" : "55007",
+      "champion" : "Katarina",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Slay Belle Katarina"
+    },
+    "55008" : {
+      "id" : "55008",
+      "champion" : "Katarina",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Warring Kingdoms Katarina"
+    },
+    "55009" : {
+      "id" : "55009",
+      "champion" : "Katarina",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "PROJECT: Katarina"
+    },
+    "10000" : {
+      "id" : "10000",
+      "champion" : "Kayle",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "10001" : {
+      "id" : "10001",
+      "champion" : "Kayle",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Silver Kayle"
+    },
+    "10002" : {
+      "id" : "10002",
+      "champion" : "Kayle",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Viridian Kayle"
+    },
+    "10003" : {
+      "id" : "10003",
+      "champion" : "Kayle",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Unmasked Kayle"
+    },
+    "10004" : {
+      "id" : "10004",
+      "champion" : "Kayle",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Battleborn Kayle"
+    },
+    "10005" : {
+      "id" : "10005",
+      "champion" : "Kayle",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Judgment Kayle"
+    },
+    "10006" : {
+      "id" : "10006",
+      "champion" : "Kayle",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Aether Wing Kayle"
+    },
+    "10007" : {
+      "id" : "10007",
+      "champion" : "Kayle",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Riot Kayle"
+    },
+    "10008" : {
+      "id" : "10008",
+      "champion" : "Kayle",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Iron Inquisitor Kayle"
+    },
+    "85000" : {
+      "id" : "85000",
+      "champion" : "Kennen",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "85001" : {
+      "id" : "85001",
+      "champion" : "Kennen",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Deadly Kennen"
+    },
+    "85002" : {
+      "id" : "85002",
+      "champion" : "Kennen",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Swamp Master Kennen"
+    },
+    "85003" : {
+      "id" : "85003",
+      "champion" : "Kennen",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Karate Kennen"
+    },
+    "85004" : {
+      "id" : "85004",
+      "champion" : "Kennen",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Kennen M.D."
+    },
+    "85005" : {
+      "id" : "85005",
+      "champion" : "Kennen",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Arctic Ops Kennen"
+    },
+    "85006" : {
+      "id" : "85006",
+      "champion" : "Kennen",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Blood Moon Kennen"
+    },
+    "121000" : {
+      "id" : "121000",
+      "champion" : "Khazix",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "121001" : {
+      "id" : "121001",
+      "champion" : "Khazix",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Mecha Kha'Zix"
+    },
+    "121002" : {
+      "id" : "121002",
+      "champion" : "Khazix",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Guardian of the Sands Kha'Zix"
+    },
+    "121003" : {
+      "id" : "121003",
+      "champion" : "Khazix",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Death Blossom Kha'Zix"
+    },
+    "203000" : {
+      "id" : "203000",
+      "champion" : "Kindred",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "203001" : {
+      "id" : "203001",
+      "champion" : "Kindred",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Shadowfire Kindred"
+    },
+    "203002" : {
+      "id" : "203002",
+      "champion" : "Kindred",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Super Galaxy Kindred"
+    },
+    "240000" : {
+      "id" : "240000",
+      "champion" : "Kled",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "240001" : {
+      "id" : "240001",
+      "champion" : "Kled",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Sir Kled"
+    },
+    "96000" : {
+      "id" : "96000",
+      "champion" : "KogMaw",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "96001" : {
+      "id" : "96001",
+      "champion" : "KogMaw",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Caterpillar Kog'Maw"
+    },
+    "96002" : {
+      "id" : "96002",
+      "champion" : "KogMaw",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Sonoran Kog'Maw"
+    },
+    "96003" : {
+      "id" : "96003",
+      "champion" : "KogMaw",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Monarch Kog'Maw"
+    },
+    "96004" : {
+      "id" : "96004",
+      "champion" : "KogMaw",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Reindeer Kog'Maw"
+    },
+    "96005" : {
+      "id" : "96005",
+      "champion" : "KogMaw",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Lion Dance Kog'Maw"
+    },
+    "96006" : {
+      "id" : "96006",
+      "champion" : "KogMaw",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Deep Sea Kog'Maw"
+    },
+    "96007" : {
+      "id" : "96007",
+      "champion" : "KogMaw",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Jurassic Kog'Maw"
+    },
+    "96008" : {
+      "id" : "96008",
+      "champion" : "KogMaw",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Battlecast Kog'Maw"
+    },
+    "7000" : {
+      "id" : "7000",
+      "champion" : "Leblanc",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "7001" : {
+      "id" : "7001",
+      "champion" : "Leblanc",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Wicked LeBlanc"
+    },
+    "7002" : {
+      "id" : "7002",
+      "champion" : "Leblanc",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Prestigious LeBlanc"
+    },
+    "7003" : {
+      "id" : "7003",
+      "champion" : "Leblanc",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Mistletoe LeBlanc"
+    },
+    "7004" : {
+      "id" : "7004",
+      "champion" : "Leblanc",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Ravenborn LeBlanc"
+    },
+    "7005" : {
+      "id" : "7005",
+      "champion" : "Leblanc",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Elderwood LeBlanc"
+    },
+    "64000" : {
+      "id" : "64000",
+      "champion" : "LeeSin",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "64001" : {
+      "id" : "64001",
+      "champion" : "LeeSin",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Traditional Lee Sin"
+    },
+    "64002" : {
+      "id" : "64002",
+      "champion" : "LeeSin",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Acolyte Lee Sin"
+    },
+    "64003" : {
+      "id" : "64003",
+      "champion" : "LeeSin",
+      "num" : "3",
+      "chromas" : "True",
+      "name" : "Dragon Fist Lee Sin"
+    },
+    "64004" : {
+      "id" : "64004",
+      "champion" : "LeeSin",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Muay Thai Lee Sin"
+    },
+    "64005" : {
+      "id" : "64005",
+      "champion" : "LeeSin",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Pool Party Lee Sin"
+    },
+    "64006" : {
+      "id" : "64006",
+      "champion" : "LeeSin",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "SKT T1 Lee Sin"
+    },
+    "64010" : {
+      "id" : "64010",
+      "champion" : "LeeSin",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Knockout Lee Sin"
+    },
+    "89000" : {
+      "id" : "89000",
+      "champion" : "Leona",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "89001" : {
+      "id" : "89001",
+      "champion" : "Leona",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Valkyrie Leona"
+    },
+    "89002" : {
+      "id" : "89002",
+      "champion" : "Leona",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Defender Leona"
+    },
+    "89003" : {
+      "id" : "89003",
+      "champion" : "Leona",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Iron Solari Leona"
+    },
+    "89004" : {
+      "id" : "89004",
+      "champion" : "Leona",
+      "num" : "4",
+      "chromas" : "True",
+      "name" : "Pool Party Leona"
+    },
+    "89008" : {
+      "id" : "89008",
+      "champion" : "Leona",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "PROJECT: Leona"
+    },
+    "89009" : {
+      "id" : "89009",
+      "champion" : "Leona",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Barbecue Leona"
+    },
+    "127000" : {
+      "id" : "127000",
+      "champion" : "Lissandra",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "127001" : {
+      "id" : "127001",
+      "champion" : "Lissandra",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Bloodstone Lissandra"
+    },
+    "127002" : {
+      "id" : "127002",
+      "champion" : "Lissandra",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Blade Queen Lissandra"
+    },
+    "127003" : {
+      "id" : "127003",
+      "champion" : "Lissandra",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Program Lissandra"
+    },
+    "236000" : {
+      "id" : "236000",
+      "champion" : "Lucian",
+      "num" : "0",
+      "chromas" : "True",
+      "name" : "default"
+    },
+    "236001" : {
+      "id" : "236001",
+      "champion" : "Lucian",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Hired Gun Lucian"
+    },
+    "236002" : {
+      "id" : "236002",
+      "champion" : "Lucian",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Striker Lucian"
+    },
+    "236006" : {
+      "id" : "236006",
+      "champion" : "Lucian",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "PROJECT: Lucian"
+    },
+    "117000" : {
+      "id" : "117000",
+      "champion" : "Lulu",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "117001" : {
+      "id" : "117001",
+      "champion" : "Lulu",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Bittersweet Lulu"
+    },
+    "117002" : {
+      "id" : "117002",
+      "champion" : "Lulu",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Wicked Lulu"
+    },
+    "117003" : {
+      "id" : "117003",
+      "champion" : "Lulu",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Dragon Trainer Lulu"
+    },
+    "117004" : {
+      "id" : "117004",
+      "champion" : "Lulu",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Winter Wonder Lulu"
+    },
+    "117005" : {
+      "id" : "117005",
+      "champion" : "Lulu",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Pool Party Lulu"
+    },
+    "117006" : {
+      "id" : "117006",
+      "champion" : "Lulu",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Star Guardian Lulu"
+    },
+    "99000" : {
+      "id" : "99000",
+      "champion" : "Lux",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "99001" : {
+      "id" : "99001",
+      "champion" : "Lux",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Sorceress Lux"
+    },
+    "99002" : {
+      "id" : "99002",
+      "champion" : "Lux",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Spellthief Lux"
+    },
+    "99003" : {
+      "id" : "99003",
+      "champion" : "Lux",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Commando Lux"
+    },
+    "99004" : {
+      "id" : "99004",
+      "champion" : "Lux",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Imperial Lux"
+    },
+    "99005" : {
+      "id" : "99005",
+      "champion" : "Lux",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Steel Legion Lux"
+    },
+    "99006" : {
+      "id" : "99006",
+      "champion" : "Lux",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Star Guardian Lux"
+    },
+    "99007" : {
+      "id" : "99007",
+      "champion" : "Lux",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Elementalist Lux"
+    },
+    "54000" : {
+      "id" : "54000",
+      "champion" : "Malphite",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "54001" : {
+      "id" : "54001",
+      "champion" : "Malphite",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Shamrock Malphite"
+    },
+    "54002" : {
+      "id" : "54002",
+      "champion" : "Malphite",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Coral Reef Malphite"
+    },
+    "54003" : {
+      "id" : "54003",
+      "champion" : "Malphite",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Marble Malphite"
+    },
+    "54004" : {
+      "id" : "54004",
+      "champion" : "Malphite",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Obsidian Malphite"
+    },
+    "54005" : {
+      "id" : "54005",
+      "champion" : "Malphite",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Glacial Malphite"
+    },
+    "54006" : {
+      "id" : "54006",
+      "champion" : "Malphite",
+      "num" : "6",
+      "chromas" : "True",
+      "name" : "Mecha Malphite"
+    },
+    "54007" : {
+      "id" : "54007",
+      "champion" : "Malphite",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Ironside Malphite"
+    },
+    "90000" : {
+      "id" : "90000",
+      "champion" : "Malzahar",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "90001" : {
+      "id" : "90001",
+      "champion" : "Malzahar",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Vizier Malzahar"
+    },
+    "90002" : {
+      "id" : "90002",
+      "champion" : "Malzahar",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Shadow Prince Malzahar"
+    },
+    "90003" : {
+      "id" : "90003",
+      "champion" : "Malzahar",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Djinn Malzahar"
+    },
+    "90004" : {
+      "id" : "90004",
+      "champion" : "Malzahar",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Overlord Malzahar"
+    },
+    "90005" : {
+      "id" : "90005",
+      "champion" : "Malzahar",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Snow Day Malzahar"
+    },
+    "57000" : {
+      "id" : "57000",
+      "champion" : "Maokai",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "57001" : {
+      "id" : "57001",
+      "champion" : "Maokai",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Charred Maokai"
+    },
+    "57002" : {
+      "id" : "57002",
+      "champion" : "Maokai",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Totemic Maokai"
+    },
+    "57003" : {
+      "id" : "57003",
+      "champion" : "Maokai",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Festive Maokai"
+    },
+    "57004" : {
+      "id" : "57004",
+      "champion" : "Maokai",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Haunted Maokai"
+    },
+    "57005" : {
+      "id" : "57005",
+      "champion" : "Maokai",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Goalkeeper Maokai"
+    },
+    "57006" : {
+      "id" : "57006",
+      "champion" : "Maokai",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Meowkai"
+    },
+    "57007" : {
+      "id" : "57007",
+      "champion" : "Maokai",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Victorious Maokai"
+    },
+    "11000" : {
+      "id" : "11000",
+      "champion" : "MasterYi",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "11001" : {
+      "id" : "11001",
+      "champion" : "MasterYi",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Assassin Master Yi"
+    },
+    "11002" : {
+      "id" : "11002",
+      "champion" : "MasterYi",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Chosen Master Yi"
+    },
+    "11003" : {
+      "id" : "11003",
+      "champion" : "MasterYi",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Ionia Master Yi"
+    },
+    "11004" : {
+      "id" : "11004",
+      "champion" : "MasterYi",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Samurai Yi"
+    },
+    "11005" : {
+      "id" : "11005",
+      "champion" : "MasterYi",
+      "num" : "5",
+      "chromas" : "True",
+      "name" : "Headhunter Master Yi"
+    },
+    "11009" : {
+      "id" : "11009",
+      "champion" : "MasterYi",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "PROJECT: Yi"
+    },
+    "21000" : {
+      "id" : "21000",
+      "champion" : "MissFortune",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "21001" : {
+      "id" : "21001",
+      "champion" : "MissFortune",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Cowgirl Miss Fortune"
+    },
+    "21002" : {
+      "id" : "21002",
+      "champion" : "MissFortune",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Waterloo Miss Fortune"
+    },
+    "21003" : {
+      "id" : "21003",
+      "champion" : "MissFortune",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Secret Agent Miss Fortune"
+    },
+    "21004" : {
+      "id" : "21004",
+      "champion" : "MissFortune",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Candy Cane Miss Fortune"
+    },
+    "21005" : {
+      "id" : "21005",
+      "champion" : "MissFortune",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Road Warrior Miss Fortune"
+    },
+    "21006" : {
+      "id" : "21006",
+      "champion" : "MissFortune",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Mafia Miss Fortune"
+    },
+    "21007" : {
+      "id" : "21007",
+      "champion" : "MissFortune",
+      "num" : "7",
+      "chromas" : "True",
+      "name" : "Arcade Miss Fortune"
+    },
+    "21008" : {
+      "id" : "21008",
+      "champion" : "MissFortune",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Captain Fortune"
+    },
+    "21009" : {
+      "id" : "21009",
+      "champion" : "MissFortune",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Pool Party Miss Fortune"
+    },
+    "62000" : {
+      "id" : "62000",
+      "champion" : "MonkeyKing",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "62001" : {
+      "id" : "62001",
+      "champion" : "MonkeyKing",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Volcanic Wukong"
+    },
+    "62002" : {
+      "id" : "62002",
+      "champion" : "MonkeyKing",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "General Wukong"
+    },
+    "62003" : {
+      "id" : "62003",
+      "champion" : "MonkeyKing",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Jade Dragon Wukong"
+    },
+    "62004" : {
+      "id" : "62004",
+      "champion" : "MonkeyKing",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Underworld Wukong"
+    },
+    "62005" : {
+      "id" : "62005",
+      "champion" : "MonkeyKing",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Radiant Wukong"
+    },
+    "82000" : {
+      "id" : "82000",
+      "champion" : "Mordekaiser",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "82001" : {
+      "id" : "82001",
+      "champion" : "Mordekaiser",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Dragon Knight Mordekaiser"
+    },
+    "82002" : {
+      "id" : "82002",
+      "champion" : "Mordekaiser",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Infernal Mordekaiser"
+    },
+    "82003" : {
+      "id" : "82003",
+      "champion" : "Mordekaiser",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Pentakill Mordekaiser"
+    },
+    "82004" : {
+      "id" : "82004",
+      "champion" : "Mordekaiser",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Lord Mordekaiser"
+    },
+    "82005" : {
+      "id" : "82005",
+      "champion" : "Mordekaiser",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "King of Clubs Mordekaiser"
+    },
+    "25000" : {
+      "id" : "25000",
+      "champion" : "Morgana",
+      "num" : "0",
+      "chromas" : "True",
+      "name" : "default"
+    },
+    "25001" : {
+      "id" : "25001",
+      "champion" : "Morgana",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Exiled Morgana"
+    },
+    "25002" : {
+      "id" : "25002",
+      "champion" : "Morgana",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Sinful Succulence Morgana"
+    },
+    "25003" : {
+      "id" : "25003",
+      "champion" : "Morgana",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Blade Mistress Morgana"
+    },
+    "25004" : {
+      "id" : "25004",
+      "champion" : "Morgana",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Blackthorn Morgana"
+    },
+    "25005" : {
+      "id" : "25005",
+      "champion" : "Morgana",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Ghost Bride Morgana"
+    },
+    "25006" : {
+      "id" : "25006",
+      "champion" : "Morgana",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Victorious Morgana"
+    },
+    "25010" : {
+      "id" : "25010",
+      "champion" : "Morgana",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Lunar Wraith Morgana"
+    },
+    "25011" : {
+      "id" : "25011",
+      "champion" : "Morgana",
+      "num" : "11",
+      "chromas" : "False",
+      "name" : "Bewitching Morgana"
+    },
+    "267000" : {
+      "id" : "267000",
+      "champion" : "Nami",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "267001" : {
+      "id" : "267001",
+      "champion" : "Nami",
+      "num" : "1",
+      "chromas" : "True",
+      "name" : "Koi Nami"
+    },
+    "267002" : {
+      "id" : "267002",
+      "champion" : "Nami",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "River Spirit Nami"
+    },
+    "267003" : {
+      "id" : "267003",
+      "champion" : "Nami",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Urf the Nami-tee"
+    },
+    "267007" : {
+      "id" : "267007",
+      "champion" : "Nami",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Deep Sea Nami"
+    },
+    "75000" : {
+      "id" : "75000",
+      "champion" : "Nasus",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "75001" : {
+      "id" : "75001",
+      "champion" : "Nasus",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Galactic Nasus"
+    },
+    "75002" : {
+      "id" : "75002",
+      "champion" : "Nasus",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Pharaoh Nasus"
+    },
+    "75003" : {
+      "id" : "75003",
+      "champion" : "Nasus",
+      "num" : "3",
+      "chromas" : "True",
+      "name" : "Dreadknight Nasus"
+    },
+    "75004" : {
+      "id" : "75004",
+      "champion" : "Nasus",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Riot K-9 Nasus"
+    },
+    "75005" : {
+      "id" : "75005",
+      "champion" : "Nasus",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Infernal Nasus"
+    },
+    "75006" : {
+      "id" : "75006",
+      "champion" : "Nasus",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Archduke Nasus"
+    },
+    "75010" : {
+      "id" : "75010",
+      "champion" : "Nasus",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Worldbreaker Nasus"
+    },
+    "111000" : {
+      "id" : "111000",
+      "champion" : "Nautilus",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "111001" : {
+      "id" : "111001",
+      "champion" : "Nautilus",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Abyssal Nautilus"
+    },
+    "111002" : {
+      "id" : "111002",
+      "champion" : "Nautilus",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Subterranean Nautilus"
+    },
+    "111003" : {
+      "id" : "111003",
+      "champion" : "Nautilus",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "AstroNautilus"
+    },
+    "111004" : {
+      "id" : "111004",
+      "champion" : "Nautilus",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Warden Nautilus"
+    },
+    "111005" : {
+      "id" : "111005",
+      "champion" : "Nautilus",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Worldbreaker Nautilus"
+    },
+    "76000" : {
+      "id" : "76000",
+      "champion" : "Nidalee",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "76001" : {
+      "id" : "76001",
+      "champion" : "Nidalee",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Snow Bunny Nidalee"
+    },
+    "76002" : {
+      "id" : "76002",
+      "champion" : "Nidalee",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Leopard Nidalee"
+    },
+    "76003" : {
+      "id" : "76003",
+      "champion" : "Nidalee",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "French Maid Nidalee"
+    },
+    "76004" : {
+      "id" : "76004",
+      "champion" : "Nidalee",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Pharaoh Nidalee"
+    },
+    "76005" : {
+      "id" : "76005",
+      "champion" : "Nidalee",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Bewitching Nidalee"
+    },
+    "76006" : {
+      "id" : "76006",
+      "champion" : "Nidalee",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Headhunter Nidalee"
+    },
+    "76007" : {
+      "id" : "76007",
+      "champion" : "Nidalee",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Warring Kingdoms Nidalee"
+    },
+    "76008" : {
+      "id" : "76008",
+      "champion" : "Nidalee",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Challenger Nidalee"
+    },
+    "56000" : {
+      "id" : "56000",
+      "champion" : "Nocturne",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "56001" : {
+      "id" : "56001",
+      "champion" : "Nocturne",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Frozen Terror Nocturne"
+    },
+    "56002" : {
+      "id" : "56002",
+      "champion" : "Nocturne",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Void Nocturne"
+    },
+    "56003" : {
+      "id" : "56003",
+      "champion" : "Nocturne",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Ravager Nocturne"
+    },
+    "56004" : {
+      "id" : "56004",
+      "champion" : "Nocturne",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Haunting Nocturne"
+    },
+    "56005" : {
+      "id" : "56005",
+      "champion" : "Nocturne",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Eternum Nocturne"
+    },
+    "56006" : {
+      "id" : "56006",
+      "champion" : "Nocturne",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Cursed Revenant Nocturne"
+    },
+    "20000" : {
+      "id" : "20000",
+      "champion" : "Nunu",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "20001" : {
+      "id" : "20001",
+      "champion" : "Nunu",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Sasquatch Nunu"
+    },
+    "20002" : {
+      "id" : "20002",
+      "champion" : "Nunu",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Workshop Nunu"
+    },
+    "20003" : {
+      "id" : "20003",
+      "champion" : "Nunu",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Grungy Nunu"
+    },
+    "20004" : {
+      "id" : "20004",
+      "champion" : "Nunu",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Nunu Bot"
+    },
+    "20005" : {
+      "id" : "20005",
+      "champion" : "Nunu",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Demolisher Nunu"
+    },
+    "20006" : {
+      "id" : "20006",
+      "champion" : "Nunu",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "TPA Nunu"
+    },
+    "20007" : {
+      "id" : "20007",
+      "champion" : "Nunu",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Zombie Nunu"
+    },
+    "2000" : {
+      "id" : "2000",
+      "champion" : "Olaf",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "2001" : {
+      "id" : "2001",
+      "champion" : "Olaf",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Forsaken Olaf"
+    },
+    "2002" : {
+      "id" : "2002",
+      "champion" : "Olaf",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Glacial Olaf"
+    },
+    "2003" : {
+      "id" : "2003",
+      "champion" : "Olaf",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Brolaf"
+    },
+    "2004" : {
+      "id" : "2004",
+      "champion" : "Olaf",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Pentakill Olaf"
+    },
+    "2005" : {
+      "id" : "2005",
+      "champion" : "Olaf",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Marauder Olaf"
+    },
+    "2006" : {
+      "id" : "2006",
+      "champion" : "Olaf",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Butcher Olaf"
+    },
+    "61000" : {
+      "id" : "61000",
+      "champion" : "Orianna",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "61001" : {
+      "id" : "61001",
+      "champion" : "Orianna",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Gothic Orianna"
+    },
+    "61002" : {
+      "id" : "61002",
+      "champion" : "Orianna",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Sewn Chaos Orianna"
+    },
+    "61003" : {
+      "id" : "61003",
+      "champion" : "Orianna",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Bladecraft Orianna"
+    },
+    "61004" : {
+      "id" : "61004",
+      "champion" : "Orianna",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "TPA Orianna"
+    },
+    "61005" : {
+      "id" : "61005",
+      "champion" : "Orianna",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Winter Wonder Orianna"
+    },
+    "61006" : {
+      "id" : "61006",
+      "champion" : "Orianna",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Heartseeker Orianna"
+    },
+    "80000" : {
+      "id" : "80000",
+      "champion" : "Pantheon",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "80001" : {
+      "id" : "80001",
+      "champion" : "Pantheon",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Myrmidon Pantheon"
+    },
+    "80002" : {
+      "id" : "80002",
+      "champion" : "Pantheon",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Ruthless Pantheon"
+    },
+    "80003" : {
+      "id" : "80003",
+      "champion" : "Pantheon",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Perseus Pantheon"
+    },
+    "80004" : {
+      "id" : "80004",
+      "champion" : "Pantheon",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Full Metal Pantheon"
+    },
+    "80005" : {
+      "id" : "80005",
+      "champion" : "Pantheon",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Glaive Warrior Pantheon"
+    },
+    "80006" : {
+      "id" : "80006",
+      "champion" : "Pantheon",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Dragonslayer Pantheon"
+    },
+    "80007" : {
+      "id" : "80007",
+      "champion" : "Pantheon",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Slayer Pantheon"
+    },
+    "80008" : {
+      "id" : "80008",
+      "champion" : "Pantheon",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Baker Pantheon"
+    },
+    "78000" : {
+      "id" : "78000",
+      "champion" : "Poppy",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "78001" : {
+      "id" : "78001",
+      "champion" : "Poppy",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Noxus Poppy"
+    },
+    "78002" : {
+      "id" : "78002",
+      "champion" : "Poppy",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Lollipoppy"
+    },
+    "78003" : {
+      "id" : "78003",
+      "champion" : "Poppy",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Blacksmith Poppy"
+    },
+    "78004" : {
+      "id" : "78004",
+      "champion" : "Poppy",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Ragdoll Poppy"
+    },
+    "78005" : {
+      "id" : "78005",
+      "champion" : "Poppy",
+      "num" : "5",
+      "chromas" : "True",
+      "name" : "Battle Regalia Poppy"
+    },
+    "78006" : {
+      "id" : "78006",
+      "champion" : "Poppy",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Scarlet Hammer Poppy"
+    },
+    "78007" : {
+      "id" : "78007",
+      "champion" : "Poppy",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Star Guardian Poppy"
+    },
+    "133000" : {
+      "id" : "133000",
+      "champion" : "Quinn",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "133001" : {
+      "id" : "133001",
+      "champion" : "Quinn",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Phoenix Quinn"
+    },
+    "133002" : {
+      "id" : "133002",
+      "champion" : "Quinn",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Woad Scout Quinn"
+    },
+    "133003" : {
+      "id" : "133003",
+      "champion" : "Quinn",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Corsair Quinn"
+    },
+    "497000" : {
+      "id" : "497000",
+      "champion" : "Rakan",
+      "num" : "0",
+      "name" : "default"
+    },
+    "497001" : {
+      "id" : "497001",
+      "champion" : "Rakan",
+      "num" : "1",
+      "name" : "Cosmic Dawn Rakan"
+    },
+    "497002" : {
+      "id" : "497002",
+      "champion" : "Rakan",
+      "num" : "2",
+      "name" : "Sweetheart Rakan"
+    },
+    "33000" : {
+      "id" : "33000",
+      "champion" : "Rammus",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "33001" : {
+      "id" : "33001",
+      "champion" : "Rammus",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "King Rammus"
+    },
+    "33002" : {
+      "id" : "33002",
+      "champion" : "Rammus",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Chrome Rammus"
+    },
+    "33003" : {
+      "id" : "33003",
+      "champion" : "Rammus",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Molten Rammus"
+    },
+    "33004" : {
+      "id" : "33004",
+      "champion" : "Rammus",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Freljord Rammus"
+    },
+    "33005" : {
+      "id" : "33005",
+      "champion" : "Rammus",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Ninja Rammus"
+    },
+    "33006" : {
+      "id" : "33006",
+      "champion" : "Rammus",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Full Metal Rammus"
+    },
+    "33007" : {
+      "id" : "33007",
+      "champion" : "Rammus",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Guardian of the Sands Rammus"
+    },
+    "421000" : {
+      "id" : "421000",
+      "champion" : "RekSai",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "421001" : {
+      "id" : "421001",
+      "champion" : "RekSai",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Eternum Rek'Sai"
+    },
+    "421002" : {
+      "id" : "421002",
+      "champion" : "RekSai",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Pool Party Rek'Sai"
+    },
+    "58000" : {
+      "id" : "58000",
+      "champion" : "Renekton",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "58001" : {
+      "id" : "58001",
+      "champion" : "Renekton",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Galactic Renekton"
+    },
+    "58002" : {
+      "id" : "58002",
+      "champion" : "Renekton",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Outback Renekton"
+    },
+    "58003" : {
+      "id" : "58003",
+      "champion" : "Renekton",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Bloodfury Renekton"
+    },
+    "58004" : {
+      "id" : "58004",
+      "champion" : "Renekton",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Rune Wars Renekton"
+    },
+    "58005" : {
+      "id" : "58005",
+      "champion" : "Renekton",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Scorched Earth Renekton"
+    },
+    "58006" : {
+      "id" : "58006",
+      "champion" : "Renekton",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Pool Party Renekton"
+    },
+    "58007" : {
+      "id" : "58007",
+      "champion" : "Renekton",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Prehistoric Renekton"
+    },
+    "58008" : {
+      "id" : "58008",
+      "champion" : "Renekton",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "SKT T1 Renekton"
+    },
+    "107000" : {
+      "id" : "107000",
+      "champion" : "Rengar",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "107001" : {
+      "id" : "107001",
+      "champion" : "Rengar",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Headhunter Rengar"
+    },
+    "107002" : {
+      "id" : "107002",
+      "champion" : "Rengar",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Night Hunter Rengar"
+    },
+    "107003" : {
+      "id" : "107003",
+      "champion" : "Rengar",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "SSW Rengar"
+    },
+    "92000" : {
+      "id" : "92000",
+      "champion" : "Riven",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "92001" : {
+      "id" : "92001",
+      "champion" : "Riven",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Redeemed Riven"
+    },
+    "92002" : {
+      "id" : "92002",
+      "champion" : "Riven",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Crimson Elite Riven"
+    },
+    "92003" : {
+      "id" : "92003",
+      "champion" : "Riven",
+      "num" : "3",
+      "chromas" : "True",
+      "name" : "Battle Bunny Riven"
+    },
+    "92004" : {
+      "id" : "92004",
+      "champion" : "Riven",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Championship Riven"
+    },
+    "92005" : {
+      "id" : "92005",
+      "champion" : "Riven",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Dragonblade Riven"
+    },
+    "92006" : {
+      "id" : "92006",
+      "champion" : "Riven",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Arcade Riven"
+    },
+    "92007" : {
+      "id" : "92007",
+      "champion" : "Riven",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Championship Riven 2016"
+    },
+    "68000" : {
+      "id" : "68000",
+      "champion" : "Rumble",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "68001" : {
+      "id" : "68001",
+      "champion" : "Rumble",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Rumble in the Jungle"
+    },
+    "68002" : {
+      "id" : "68002",
+      "champion" : "Rumble",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Bilgerat Rumble"
+    },
+    "68003" : {
+      "id" : "68003",
+      "champion" : "Rumble",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Super Galaxy Rumble"
+    },
+    "13000" : {
+      "id" : "13000",
+      "champion" : "Ryze",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "13001" : {
+      "id" : "13001",
+      "champion" : "Ryze",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Young Ryze"
+    },
+    "13002" : {
+      "id" : "13002",
+      "champion" : "Ryze",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Tribal Ryze"
+    },
+    "13003" : {
+      "id" : "13003",
+      "champion" : "Ryze",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Uncle Ryze"
+    },
+    "13004" : {
+      "id" : "13004",
+      "champion" : "Ryze",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Triumphant Ryze"
+    },
+    "13005" : {
+      "id" : "13005",
+      "champion" : "Ryze",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Professor Ryze"
+    },
+    "13006" : {
+      "id" : "13006",
+      "champion" : "Ryze",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Zombie Ryze"
+    },
+    "13007" : {
+      "id" : "13007",
+      "champion" : "Ryze",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Dark Crystal Ryze"
+    },
+    "13008" : {
+      "id" : "13008",
+      "champion" : "Ryze",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Pirate Ryze"
+    },
+    "13009" : {
+      "id" : "13009",
+      "champion" : "Ryze",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Ryze Whitebeard"
+    },
+    "13010" : {
+      "id" : "13010",
+      "champion" : "Ryze",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "SKT T1 Ryze"
+    },
+    "113000" : {
+      "id" : "113000",
+      "champion" : "Sejuani",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "113001" : {
+      "id" : "113001",
+      "champion" : "Sejuani",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Sabretusk Sejuani"
+    },
+    "113002" : {
+      "id" : "113002",
+      "champion" : "Sejuani",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Darkrider Sejuani"
+    },
+    "113003" : {
+      "id" : "113003",
+      "champion" : "Sejuani",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Traditional Sejuani"
+    },
+    "113004" : {
+      "id" : "113004",
+      "champion" : "Sejuani",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Bear Cavalry Sejuani"
+    },
+    "113005" : {
+      "id" : "113005",
+      "champion" : "Sejuani",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Poro Rider Sejuani"
+    },
+    "113006" : {
+      "id" : "113006",
+      "champion" : "Sejuani",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Beast Hunter Sejuani"
+    },
+    "113007" : {
+      "id" : "113007",
+      "champion" : "Sejuani",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Sejuani Dawnchaser"
+    },
+    "35000" : {
+      "id" : "35000",
+      "champion" : "Shaco",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "35001" : {
+      "id" : "35001",
+      "champion" : "Shaco",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Mad Hatter Shaco"
+    },
+    "35002" : {
+      "id" : "35002",
+      "champion" : "Shaco",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Royal Shaco"
+    },
+    "35003" : {
+      "id" : "35003",
+      "champion" : "Shaco",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Nutcracko"
+    },
+    "35004" : {
+      "id" : "35004",
+      "champion" : "Shaco",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Workshop Shaco"
+    },
+    "35005" : {
+      "id" : "35005",
+      "champion" : "Shaco",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Asylum Shaco"
+    },
+    "35006" : {
+      "id" : "35006",
+      "champion" : "Shaco",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Masked Shaco"
+    },
+    "35007" : {
+      "id" : "35007",
+      "champion" : "Shaco",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Wild Card Shaco"
+    },
+    "98000" : {
+      "id" : "98000",
+      "champion" : "Shen",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "98001" : {
+      "id" : "98001",
+      "champion" : "Shen",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Frozen Shen"
+    },
+    "98002" : {
+      "id" : "98002",
+      "champion" : "Shen",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Yellow Jacket Shen"
+    },
+    "98003" : {
+      "id" : "98003",
+      "champion" : "Shen",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Surgeon Shen"
+    },
+    "98004" : {
+      "id" : "98004",
+      "champion" : "Shen",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Blood Moon Shen"
+    },
+    "98005" : {
+      "id" : "98005",
+      "champion" : "Shen",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Warlord Shen"
+    },
+    "98006" : {
+      "id" : "98006",
+      "champion" : "Shen",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "TPA Shen"
+    },
+    "102000" : {
+      "id" : "102000",
+      "champion" : "Shyvana",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "102001" : {
+      "id" : "102001",
+      "champion" : "Shyvana",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Ironscale Shyvana"
+    },
+    "102002" : {
+      "id" : "102002",
+      "champion" : "Shyvana",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Boneclaw Shyvana"
+    },
+    "102003" : {
+      "id" : "102003",
+      "champion" : "Shyvana",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Darkflame Shyvana"
+    },
+    "102004" : {
+      "id" : "102004",
+      "champion" : "Shyvana",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Ice Drake Shyvana"
+    },
+    "102005" : {
+      "id" : "102005",
+      "champion" : "Shyvana",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Championship Shyvana"
+    },
+    "102006" : {
+      "id" : "102006",
+      "champion" : "Shyvana",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Super Galaxy Shyvana"
+    },
+    "27000" : {
+      "id" : "27000",
+      "champion" : "Singed",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "27001" : {
+      "id" : "27001",
+      "champion" : "Singed",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Riot Squad Singed"
+    },
+    "27002" : {
+      "id" : "27002",
+      "champion" : "Singed",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Hextech Singed"
+    },
+    "27003" : {
+      "id" : "27003",
+      "champion" : "Singed",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Surfer Singed"
+    },
+    "27004" : {
+      "id" : "27004",
+      "champion" : "Singed",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Mad Scientist Singed"
+    },
+    "27005" : {
+      "id" : "27005",
+      "champion" : "Singed",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Augmented Singed"
+    },
+    "27006" : {
+      "id" : "27006",
+      "champion" : "Singed",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Snow Day Singed"
+    },
+    "27007" : {
+      "id" : "27007",
+      "champion" : "Singed",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "SSW Singed"
+    },
+    "27008" : {
+      "id" : "27008",
+      "champion" : "Singed",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Black Scourge Singed"
+    },
+    "14000" : {
+      "id" : "14000",
+      "champion" : "Sion",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "14001" : {
+      "id" : "14001",
+      "champion" : "Sion",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Hextech Sion"
+    },
+    "14002" : {
+      "id" : "14002",
+      "champion" : "Sion",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Barbarian Sion"
+    },
+    "14003" : {
+      "id" : "14003",
+      "champion" : "Sion",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Lumberjack Sion"
+    },
+    "14004" : {
+      "id" : "14004",
+      "champion" : "Sion",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Warmonger Sion"
+    },
+    "14005" : {
+      "id" : "14005",
+      "champion" : "Sion",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Mecha Zero Sion"
+    },
+    "15000" : {
+      "id" : "15000",
+      "champion" : "Sivir",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "15001" : {
+      "id" : "15001",
+      "champion" : "Sivir",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Warrior Princess Sivir"
+    },
+    "15002" : {
+      "id" : "15002",
+      "champion" : "Sivir",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Spectacular Sivir"
+    },
+    "15003" : {
+      "id" : "15003",
+      "champion" : "Sivir",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Huntress Sivir"
+    },
+    "15004" : {
+      "id" : "15004",
+      "champion" : "Sivir",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Bandit Sivir"
+    },
+    "15005" : {
+      "id" : "15005",
+      "champion" : "Sivir",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "PAX Sivir"
+    },
+    "15006" : {
+      "id" : "15006",
+      "champion" : "Sivir",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Snowstorm Sivir"
+    },
+    "15007" : {
+      "id" : "15007",
+      "champion" : "Sivir",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Warden Sivir"
+    },
+    "15008" : {
+      "id" : "15008",
+      "champion" : "Sivir",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Victorious Sivir"
+    },
+    "72000" : {
+      "id" : "72000",
+      "champion" : "Skarner",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "72001" : {
+      "id" : "72001",
+      "champion" : "Skarner",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Sandscourge Skarner"
+    },
+    "72002" : {
+      "id" : "72002",
+      "champion" : "Skarner",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Earthrune Skarner"
+    },
+    "72003" : {
+      "id" : "72003",
+      "champion" : "Skarner",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Battlecast Alpha Skarner"
+    },
+    "72004" : {
+      "id" : "72004",
+      "champion" : "Skarner",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Guardian of the Sands Skarner"
+    },
+    "37000" : {
+      "id" : "37000",
+      "champion" : "Sona",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "37001" : {
+      "id" : "37001",
+      "champion" : "Sona",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Muse Sona"
+    },
+    "37002" : {
+      "id" : "37002",
+      "champion" : "Sona",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Pentakill Sona"
+    },
+    "37003" : {
+      "id" : "37003",
+      "champion" : "Sona",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Silent Night Sona"
+    },
+    "37004" : {
+      "id" : "37004",
+      "champion" : "Sona",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Guqin Sona"
+    },
+    "37005" : {
+      "id" : "37005",
+      "champion" : "Sona",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Arcade Sona"
+    },
+    "37006" : {
+      "id" : "37006",
+      "champion" : "Sona",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "DJ Sona"
+    },
+    "37007" : {
+      "id" : "37007",
+      "champion" : "Sona",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Sweetheart Sona"
+    },
+    "16000" : {
+      "id" : "16000",
+      "champion" : "Soraka",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "16001" : {
+      "id" : "16001",
+      "champion" : "Soraka",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Dryad Soraka"
+    },
+    "16002" : {
+      "id" : "16002",
+      "champion" : "Soraka",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Divine Soraka"
+    },
+    "16003" : {
+      "id" : "16003",
+      "champion" : "Soraka",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Celestine Soraka"
+    },
+    "16004" : {
+      "id" : "16004",
+      "champion" : "Soraka",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Reaper Soraka"
+    },
+    "16005" : {
+      "id" : "16005",
+      "champion" : "Soraka",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Order of the Banana Soraka"
+    },
+    "16006" : {
+      "id" : "16006",
+      "champion" : "Soraka",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Program Soraka"
+    },
+    "50000" : {
+      "id" : "50000",
+      "champion" : "Swain",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "50001" : {
+      "id" : "50001",
+      "champion" : "Swain",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Northern Front Swain"
+    },
+    "50002" : {
+      "id" : "50002",
+      "champion" : "Swain",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Bilgewater Swain"
+    },
+    "50003" : {
+      "id" : "50003",
+      "champion" : "Swain",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Tyrant Swain"
+    },
+    "134000" : {
+      "id" : "134000",
+      "champion" : "Syndra",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "134001" : {
+      "id" : "134001",
+      "champion" : "Syndra",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Justicar Syndra"
+    },
+    "134002" : {
+      "id" : "134002",
+      "champion" : "Syndra",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Atlantean Syndra"
+    },
+    "134003" : {
+      "id" : "134003",
+      "champion" : "Syndra",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Queen of Diamonds Syndra"
+    },
+    "134004" : {
+      "id" : "134004",
+      "champion" : "Syndra",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Snow Day Syndra"
+    },
+    "223000" : {
+      "id" : "223000",
+      "champion" : "TahmKench",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "223001" : {
+      "id" : "223001",
+      "champion" : "TahmKench",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Master Chef Tahm Kench"
+    },
+    "223002" : {
+      "id" : "223002",
+      "champion" : "TahmKench",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Urf Kench"
+    },
+    "163000" : {
+      "id" : "163000",
+      "champion" : "Taliyah",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "163001" : {
+      "id" : "163001",
+      "champion" : "Taliyah",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Freljord Taliyah"
+    },
+    "91000" : {
+      "id" : "91000",
+      "champion" : "Talon",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "91001" : {
+      "id" : "91001",
+      "champion" : "Talon",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Renegade Talon"
+    },
+    "91002" : {
+      "id" : "91002",
+      "champion" : "Talon",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Crimson Elite Talon"
+    },
+    "91003" : {
+      "id" : "91003",
+      "champion" : "Talon",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Dragonblade Talon"
+    },
+    "91004" : {
+      "id" : "91004",
+      "champion" : "Talon",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "SSW Talon"
+    },
+    "44000" : {
+      "id" : "44000",
+      "champion" : "Taric",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "44001" : {
+      "id" : "44001",
+      "champion" : "Taric",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Emerald Taric"
+    },
+    "44002" : {
+      "id" : "44002",
+      "champion" : "Taric",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Armor of the Fifth Age Taric"
+    },
+    "44003" : {
+      "id" : "44003",
+      "champion" : "Taric",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Bloodstone Taric"
+    },
+    "44004" : {
+      "id" : "44004",
+      "champion" : "Taric",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Pool Party Taric"
+    },
+    "17000" : {
+      "id" : "17000",
+      "champion" : "Teemo",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "17001" : {
+      "id" : "17001",
+      "champion" : "Teemo",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Happy Elf Teemo"
+    },
+    "17002" : {
+      "id" : "17002",
+      "champion" : "Teemo",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Recon Teemo"
+    },
+    "17003" : {
+      "id" : "17003",
+      "champion" : "Teemo",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Badger Teemo"
+    },
+    "17004" : {
+      "id" : "17004",
+      "champion" : "Teemo",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Astronaut Teemo"
+    },
+    "17005" : {
+      "id" : "17005",
+      "champion" : "Teemo",
+      "num" : "5",
+      "chromas" : "True",
+      "name" : "Cottontail Teemo"
+    },
+    "17006" : {
+      "id" : "17006",
+      "champion" : "Teemo",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Super Teemo"
+    },
+    "17007" : {
+      "id" : "17007",
+      "champion" : "Teemo",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Panda Teemo"
+    },
+    "17008" : {
+      "id" : "17008",
+      "champion" : "Teemo",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Omega Squad Teemo"
+    },
+    "17014" : {
+      "id" : "17014",
+      "champion" : "Teemo",
+      "num" : "14",
+      "chromas" : "False",
+      "name" : "Little Devil Teemo"
+    },
+    "412000" : {
+      "id" : "412000",
+      "champion" : "Thresh",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "412001" : {
+      "id" : "412001",
+      "champion" : "Thresh",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Deep Terror Thresh"
+    },
+    "412002" : {
+      "id" : "412002",
+      "champion" : "Thresh",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Championship Thresh"
+    },
+    "412003" : {
+      "id" : "412003",
+      "champion" : "Thresh",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Blood Moon Thresh"
+    },
+    "412004" : {
+      "id" : "412004",
+      "champion" : "Thresh",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "SSW Thresh"
+    },
+    "412005" : {
+      "id" : "412005",
+      "champion" : "Thresh",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Dark Star Thresh"
+    },
+    "18000" : {
+      "id" : "18000",
+      "champion" : "Tristana",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "18001" : {
+      "id" : "18001",
+      "champion" : "Tristana",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Riot Girl Tristana"
+    },
+    "18002" : {
+      "id" : "18002",
+      "champion" : "Tristana",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Earnest Elf Tristana"
+    },
+    "18003" : {
+      "id" : "18003",
+      "champion" : "Tristana",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Firefighter Tristana"
+    },
+    "18004" : {
+      "id" : "18004",
+      "champion" : "Tristana",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Guerilla Tristana"
+    },
+    "18005" : {
+      "id" : "18005",
+      "champion" : "Tristana",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Buccaneer Tristana"
+    },
+    "18006" : {
+      "id" : "18006",
+      "champion" : "Tristana",
+      "num" : "6",
+      "chromas" : "True",
+      "name" : "Rocket Girl Tristana"
+    },
+    "18010" : {
+      "id" : "18010",
+      "champion" : "Tristana",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Dragon Trainer Tristana"
+    },
+    "18011" : {
+      "id" : "18011",
+      "champion" : "Tristana",
+      "num" : "11",
+      "chromas" : "False",
+      "name" : "Bewitching Tristana"
+    },
+    "48000" : {
+      "id" : "48000",
+      "champion" : "Trundle",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "48001" : {
+      "id" : "48001",
+      "champion" : "Trundle",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Lil' Slugger Trundle"
+    },
+    "48002" : {
+      "id" : "48002",
+      "champion" : "Trundle",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Junkyard Trundle"
+    },
+    "48003" : {
+      "id" : "48003",
+      "champion" : "Trundle",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Traditional Trundle"
+    },
+    "48004" : {
+      "id" : "48004",
+      "champion" : "Trundle",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Constable Trundle"
+    },
+    "48005" : {
+      "id" : "48005",
+      "champion" : "Trundle",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Worldbreaker Trundle"
+    },
+    "23000" : {
+      "id" : "23000",
+      "champion" : "Tryndamere",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "23001" : {
+      "id" : "23001",
+      "champion" : "Tryndamere",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Highland Tryndamere"
+    },
+    "23002" : {
+      "id" : "23002",
+      "champion" : "Tryndamere",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "King Tryndamere"
+    },
+    "23003" : {
+      "id" : "23003",
+      "champion" : "Tryndamere",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Viking Tryndamere"
+    },
+    "23004" : {
+      "id" : "23004",
+      "champion" : "Tryndamere",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Demonblade Tryndamere"
+    },
+    "23005" : {
+      "id" : "23005",
+      "champion" : "Tryndamere",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Sultan Tryndamere"
+    },
+    "23006" : {
+      "id" : "23006",
+      "champion" : "Tryndamere",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Warring Kingdoms Tryndamere"
+    },
+    "23007" : {
+      "id" : "23007",
+      "champion" : "Tryndamere",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Nightmare Tryndamere"
+    },
+    "23008" : {
+      "id" : "23008",
+      "champion" : "Tryndamere",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Beast Hunter Tryndamere"
+    },
+    "4000" : {
+      "id" : "4000",
+      "champion" : "TwistedFate",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "4001" : {
+      "id" : "4001",
+      "champion" : "TwistedFate",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "PAX Twisted Fate"
+    },
+    "4002" : {
+      "id" : "4002",
+      "champion" : "TwistedFate",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Jack of Hearts Twisted Fate"
+    },
+    "4003" : {
+      "id" : "4003",
+      "champion" : "TwistedFate",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "The Magnificent Twisted Fate"
+    },
+    "4004" : {
+      "id" : "4004",
+      "champion" : "TwistedFate",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Tango Twisted Fate"
+    },
+    "4005" : {
+      "id" : "4005",
+      "champion" : "TwistedFate",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "High Noon Twisted Fate"
+    },
+    "4006" : {
+      "id" : "4006",
+      "champion" : "TwistedFate",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Musketeer Twisted Fate"
+    },
+    "4007" : {
+      "id" : "4007",
+      "champion" : "TwistedFate",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Underworld Twisted Fate"
+    },
+    "4008" : {
+      "id" : "4008",
+      "champion" : "TwistedFate",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Red Card Twisted Fate"
+    },
+    "4009" : {
+      "id" : "4009",
+      "champion" : "TwistedFate",
+      "num" : "9",
+      "chromas" : "False",
+      "name" : "Cutpurse Twisted Fate"
+    },
+    "29000" : {
+      "id" : "29000",
+      "champion" : "Twitch",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "29001" : {
+      "id" : "29001",
+      "champion" : "Twitch",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Kingpin Twitch"
+    },
+    "29002" : {
+      "id" : "29002",
+      "champion" : "Twitch",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Whistler Village Twitch"
+    },
+    "29003" : {
+      "id" : "29003",
+      "champion" : "Twitch",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Medieval Twitch"
+    },
+    "29004" : {
+      "id" : "29004",
+      "champion" : "Twitch",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Gangster Twitch"
+    },
+    "29005" : {
+      "id" : "29005",
+      "champion" : "Twitch",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Vandal Twitch"
+    },
+    "29006" : {
+      "id" : "29006",
+      "champion" : "Twitch",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Pickpocket Twitch"
+    },
+    "29007" : {
+      "id" : "29007",
+      "champion" : "Twitch",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "SSW Twitch"
+    },
+    "77000" : {
+      "id" : "77000",
+      "champion" : "Udyr",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "77001" : {
+      "id" : "77001",
+      "champion" : "Udyr",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Black Belt Udyr"
+    },
+    "77002" : {
+      "id" : "77002",
+      "champion" : "Udyr",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Primal Udyr"
+    },
+    "77003" : {
+      "id" : "77003",
+      "champion" : "Udyr",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Spirit Guard Udyr"
+    },
+    "77004" : {
+      "id" : "77004",
+      "champion" : "Udyr",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Definitely Not Udyr"
+    },
+    "6000" : {
+      "id" : "6000",
+      "champion" : "Urgot",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "6001" : {
+      "id" : "6001",
+      "champion" : "Urgot",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Giant Enemy Crabgot"
+    },
+    "6002" : {
+      "id" : "6002",
+      "champion" : "Urgot",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Butcher Urgot"
+    },
+    "6003" : {
+      "id" : "6003",
+      "champion" : "Urgot",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Battlecast Urgot"
+    },
+    "110000" : {
+      "id" : "110000",
+      "champion" : "Varus",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "110001" : {
+      "id" : "110001",
+      "champion" : "Varus",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Blight Crystal Varus"
+    },
+    "110002" : {
+      "id" : "110002",
+      "champion" : "Varus",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Arclight Varus"
+    },
+    "110003" : {
+      "id" : "110003",
+      "champion" : "Varus",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Arctic Ops Varus"
+    },
+    "110004" : {
+      "id" : "110004",
+      "champion" : "Varus",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Heartseeker Varus"
+    },
+    "110005" : {
+      "id" : "110005",
+      "champion" : "Varus",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Varus Swiftbolt"
+    },
+    "110006" : {
+      "id" : "110006",
+      "champion" : "Varus",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Dark Star Varus"
+    },
+    "67000" : {
+      "id" : "67000",
+      "champion" : "Vayne",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "67001" : {
+      "id" : "67001",
+      "champion" : "Vayne",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Vindicator Vayne"
+    },
+    "67002" : {
+      "id" : "67002",
+      "champion" : "Vayne",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Aristocrat Vayne"
+    },
+    "67003" : {
+      "id" : "67003",
+      "champion" : "Vayne",
+      "num" : "3",
+      "chromas" : "True",
+      "name" : "Dragonslayer Vayne"
+    },
+    "67004" : {
+      "id" : "67004",
+      "champion" : "Vayne",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Heartseeker Vayne"
+    },
+    "67005" : {
+      "id" : "67005",
+      "champion" : "Vayne",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "SKT T1 Vayne"
+    },
+    "67006" : {
+      "id" : "67006",
+      "champion" : "Vayne",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Arclight Vayne"
+    },
+    "67010" : {
+      "id" : "67010",
+      "champion" : "Vayne",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Soulstealer Vayne"
+    },
+    "45000" : {
+      "id" : "45000",
+      "champion" : "Veigar",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "45001" : {
+      "id" : "45001",
+      "champion" : "Veigar",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "White Mage Veigar"
+    },
+    "45002" : {
+      "id" : "45002",
+      "champion" : "Veigar",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Curling Veigar"
+    },
+    "45003" : {
+      "id" : "45003",
+      "champion" : "Veigar",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Veigar Greybeard"
+    },
+    "45004" : {
+      "id" : "45004",
+      "champion" : "Veigar",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Leprechaun Veigar"
+    },
+    "45005" : {
+      "id" : "45005",
+      "champion" : "Veigar",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Baron Von Veigar"
+    },
+    "45006" : {
+      "id" : "45006",
+      "champion" : "Veigar",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Superb Villain Veigar"
+    },
+    "45007" : {
+      "id" : "45007",
+      "champion" : "Veigar",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Bad Santa Veigar"
+    },
+    "45008" : {
+      "id" : "45008",
+      "champion" : "Veigar",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Final Boss Veigar"
+    },
+    "161000" : {
+      "id" : "161000",
+      "champion" : "Velkoz",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "161001" : {
+      "id" : "161001",
+      "champion" : "Velkoz",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Battlecast Vel'Koz"
+    },
+    "161002" : {
+      "id" : "161002",
+      "champion" : "Velkoz",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Arclight Vel'Koz"
+    },
+    "161003" : {
+      "id" : "161003",
+      "champion" : "Velkoz",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Definitely Not Vel'Koz"
+    },
+    "254000" : {
+      "id" : "254000",
+      "champion" : "Vi",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "254001" : {
+      "id" : "254001",
+      "champion" : "Vi",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Neon Strike Vi"
+    },
+    "254002" : {
+      "id" : "254002",
+      "champion" : "Vi",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Officer Vi"
+    },
+    "254003" : {
+      "id" : "254003",
+      "champion" : "Vi",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Debonair Vi"
+    },
+    "254004" : {
+      "id" : "254004",
+      "champion" : "Vi",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Demon Vi"
+    },
+    "112000" : {
+      "id" : "112000",
+      "champion" : "Viktor",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "112001" : {
+      "id" : "112001",
+      "champion" : "Viktor",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Full Machine Viktor"
+    },
+    "112002" : {
+      "id" : "112002",
+      "champion" : "Viktor",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Prototype Viktor"
+    },
+    "112003" : {
+      "id" : "112003",
+      "champion" : "Viktor",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Creator Viktor"
+    },
+    "8000" : {
+      "id" : "8000",
+      "champion" : "Vladimir",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "8001" : {
+      "id" : "8001",
+      "champion" : "Vladimir",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Count Vladimir"
+    },
+    "8002" : {
+      "id" : "8002",
+      "champion" : "Vladimir",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Marquis Vladimir"
+    },
+    "8003" : {
+      "id" : "8003",
+      "champion" : "Vladimir",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Nosferatu Vladimir"
+    },
+    "8004" : {
+      "id" : "8004",
+      "champion" : "Vladimir",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Vandal Vladimir"
+    },
+    "8005" : {
+      "id" : "8005",
+      "champion" : "Vladimir",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Blood Lord Vladimir"
+    },
+    "8006" : {
+      "id" : "8006",
+      "champion" : "Vladimir",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Soulstealer Vladimir"
+    },
+    "8007" : {
+      "id" : "8007",
+      "champion" : "Vladimir",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Academy Vladimir"
+    },
+    "106000" : {
+      "id" : "106000",
+      "champion" : "Volibear",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "106001" : {
+      "id" : "106001",
+      "champion" : "Volibear",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Thunder Lord Volibear"
+    },
+    "106002" : {
+      "id" : "106002",
+      "champion" : "Volibear",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Northern Storm Volibear"
+    },
+    "106003" : {
+      "id" : "106003",
+      "champion" : "Volibear",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Runeguard Volibear"
+    },
+    "106004" : {
+      "id" : "106004",
+      "champion" : "Volibear",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Captain Volibear"
+    },
+    "106005" : {
+      "id" : "106005",
+      "champion" : "Volibear",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "El Rayo Volibear"
+    },
+    "19000" : {
+      "id" : "19000",
+      "champion" : "Warwick",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "19001" : {
+      "id" : "19001",
+      "champion" : "Warwick",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Grey Warwick"
+    },
+    "19002" : {
+      "id" : "19002",
+      "champion" : "Warwick",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Urf the Manatee"
+    },
+    "19003" : {
+      "id" : "19003",
+      "champion" : "Warwick",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Big Bad Warwick"
+    },
+    "19004" : {
+      "id" : "19004",
+      "champion" : "Warwick",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Tundra Hunter Warwick"
+    },
+    "19005" : {
+      "id" : "19005",
+      "champion" : "Warwick",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Feral Warwick"
+    },
+    "19006" : {
+      "id" : "19006",
+      "champion" : "Warwick",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Firefang Warwick"
+    },
+    "19007" : {
+      "id" : "19007",
+      "champion" : "Warwick",
+      "num" : "7",
+      "chromas" : "False",
+      "name" : "Hyena Warwick"
+    },
+    "19008" : {
+      "id" : "19008",
+      "champion" : "Warwick",
+      "num" : "8",
+      "chromas" : "False",
+      "name" : "Marauder Warwick"
+    },
+    "101000" : {
+      "id" : "101000",
+      "champion" : "Xerath",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "101001" : {
+      "id" : "101001",
+      "champion" : "Xerath",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Runeborn Xerath"
+    },
+    "101002" : {
+      "id" : "101002",
+      "champion" : "Xerath",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Battlecast Xerath"
+    },
+    "101003" : {
+      "id" : "101003",
+      "champion" : "Xerath",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Scorched Earth Xerath"
+    },
+    "101004" : {
+      "id" : "101004",
+      "champion" : "Xerath",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Guardian of the Sands Xerath"
+    },
+    "5000" : {
+      "id" : "5000",
+      "champion" : "XinZhao",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "5001" : {
+      "id" : "5001",
+      "champion" : "XinZhao",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Commando Xin Zhao"
+    },
+    "5002" : {
+      "id" : "5002",
+      "champion" : "XinZhao",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Imperial Xin Zhao"
+    },
+    "5003" : {
+      "id" : "5003",
+      "champion" : "XinZhao",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Viscero Xin Zhao"
+    },
+    "5004" : {
+      "id" : "5004",
+      "champion" : "XinZhao",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Winged Hussar Xin Zhao"
+    },
+    "5005" : {
+      "id" : "5005",
+      "champion" : "XinZhao",
+      "num" : "5",
+      "chromas" : "True",
+      "name" : "Warring Kingdoms Xin Zhao"
+    },
+    "5006" : {
+      "id" : "5006",
+      "champion" : "XinZhao",
+      "num" : "6",
+      "chromas" : "False",
+      "name" : "Secret Agent Xin Zhao"
+    },
+    "157000" : {
+      "id" : "157000",
+      "champion" : "Yasuo",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "157001" : {
+      "id" : "157001",
+      "champion" : "Yasuo",
+      "num" : "1",
+      "chromas" : "True",
+      "name" : "High Noon Yasuo"
+    },
+    "157002" : {
+      "id" : "157002",
+      "champion" : "Yasuo",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "PROJECT: Yasuo"
+    },
+    "157003" : {
+      "id" : "157003",
+      "champion" : "Yasuo",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Blood Moon Yasuo"
+    },
+    "83000" : {
+      "id" : "83000",
+      "champion" : "Yorick",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "83001" : {
+      "id" : "83001",
+      "champion" : "Yorick",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Undertaker Yorick"
+    },
+    "83002" : {
+      "id" : "83002",
+      "champion" : "Yorick",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Pentakill Yorick"
+    },
+    "154000" : {
+      "id" : "154000",
+      "champion" : "Zac",
+      "num" : "0",
+      "chromas" : "True",
+      "name" : "default"
+    },
+    "154001" : {
+      "id" : "154001",
+      "champion" : "Zac",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Special Weapon Zac"
+    },
+    "154002" : {
+      "id" : "154002",
+      "champion" : "Zac",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Pool Party Zac"
+    },
+    "238000" : {
+      "id" : "238000",
+      "champion" : "Zed",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "238001" : {
+      "id" : "238001",
+      "champion" : "Zed",
+      "num" : "1",
+      "chromas" : "True",
+      "name" : "Shockblade Zed"
+    },
+    "238002" : {
+      "id" : "238002",
+      "champion" : "Zed",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "SKT T1 Zed"
+    },
+    "238003" : {
+      "id" : "238003",
+      "champion" : "Zed",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "PROJECT: Zed"
+    },
+    "238010" : {
+      "id" : "238010",
+      "champion" : "Zed",
+      "num" : "10",
+      "chromas" : "False",
+      "name" : "Championship Zed"
+    },
+    "115000" : {
+      "id" : "115000",
+      "champion" : "Ziggs",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "115001" : {
+      "id" : "115001",
+      "champion" : "Ziggs",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Mad Scientist Ziggs"
+    },
+    "115002" : {
+      "id" : "115002",
+      "champion" : "Ziggs",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Major Ziggs"
+    },
+    "115003" : {
+      "id" : "115003",
+      "champion" : "Ziggs",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Pool Party Ziggs"
+    },
+    "115004" : {
+      "id" : "115004",
+      "champion" : "Ziggs",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Snow Day Ziggs"
+    },
+    "115005" : {
+      "id" : "115005",
+      "champion" : "Ziggs",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Master Arcanist Ziggs"
+    },
+    "26000" : {
+      "id" : "26000",
+      "champion" : "Zilean",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "26001" : {
+      "id" : "26001",
+      "champion" : "Zilean",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Old Saint Zilean"
+    },
+    "26002" : {
+      "id" : "26002",
+      "champion" : "Zilean",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Groovy Zilean"
+    },
+    "26003" : {
+      "id" : "26003",
+      "champion" : "Zilean",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "Shurima Desert Zilean"
+    },
+    "26004" : {
+      "id" : "26004",
+      "champion" : "Zilean",
+      "num" : "4",
+      "chromas" : "False",
+      "name" : "Time Machine Zilean"
+    },
+    "26005" : {
+      "id" : "26005",
+      "champion" : "Zilean",
+      "num" : "5",
+      "chromas" : "False",
+      "name" : "Blood Moon Zilean"
+    },
+    "142000" : {
+      "id" : "142000",
+      "champion" : "Zoe",
+      "num" : "0",
+      "name" : "default"
+    },
+    "142001" : {
+      "id" : "142001",
+      "champion" : "Zoe",
+      "num" : "1",
+      "name" : "Cyber Pop Zoe"
+    },
+    "143000" : {
+      "id" : "143000",
+      "champion" : "Zyra",
+      "num" : "0",
+      "chromas" : "False",
+      "name" : "default"
+    },
+    "143001" : {
+      "id" : "143001",
+      "champion" : "Zyra",
+      "num" : "1",
+      "chromas" : "False",
+      "name" : "Wildfire Zyra"
+    },
+    "143002" : {
+      "id" : "143002",
+      "champion" : "Zyra",
+      "num" : "2",
+      "chromas" : "False",
+      "name" : "Haunted Zyra"
+    },
+    "143003" : {
+      "id" : "143003",
+      "champion" : "Zyra",
+      "num" : "3",
+      "chromas" : "False",
+      "name" : "SKT T1 Zyra"
+    }
+}}
